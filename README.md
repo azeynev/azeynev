@@ -1,5 +1,5 @@
 Markdown
-# 👨‍💻 Али Зейнев (azeynev)
+# 👨‍💻 д-р Адем Зейнев (azeynev)
 
 ### Full-Stack Developer & Software Educator
 

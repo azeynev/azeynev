@@ -9,9 +9,9 @@
 
 ### 📊 ИНТЕГРАЛЕН ПЕДАГОГИЧЕСКИ И НАУЧЕН ИНДЕКС
 
-| 🏆 Педагогически Стаж | 🎓 Научна Степен | 🏛️ Университет & Катедра | 🔬 Google Scholar / ORCID | 💻 Дигитализация |
+| 🏆 Педагогически Стаж | 🎓 Научна Степен | 🏛️ Университет & Катедра | 🔬 Публикации & Доклади | 💻 Дигитализация |
 | :---: | :---: | :---: | :---: | :---: |
-| **25+ Години** *(от 2000 г.)* | **PhD in Mathematics** | **UCTM Sofia · Dept. of Mathematics** | **Академичен Профил & Доклади** | **100% Облачна Интеграция** |
+| **25+ Години** *(от 2000 г.)* | **PhD in Mathematics** | **UCTM Sofia · Dept. of Mathematics** | **11 Публикации · 7 Доклада** | **100% Облачна Интеграция** |
 
 ---
 
@@ -58,17 +58,36 @@
 
 ---
 
-## 🔬 4. Научно-Изследователска Дейност & Research Profile (UCTM)
+## 🔬 4. Научно-Изследователска Дейност & Списък с Публикации
 
 - 📐 **Приложна Математика:** Диференциални уравнения, числени методи, математически модели на инженерни, химични и технологични процеси.
 - ⚙️ **ANSYS Software Suite:** ANSYS Multiphysics, ANSYS Workbench, CFX (компютърна хидродинамика, числено моделиране и симулация на физични процеси).
 - 🧮 **Компютърна Алгебра:** MAPLE (символни изчисления, визуализация, числено и алгебрично моделиране).
 - 🛠️ **Инженерни Симулации:** 3D моделиране, верификация и валидация на математически и софтуерни модели.
 
-### 📚 Публикации и научни трудове (Google Scholar & ORCID Indexing):
-* 📖 **Изследване и моделиране на топло- и масообменни процеси** в академични издания на UCTM и сборници от международни научни конференции.
-* 📖 **Математически модели за аналитично и числено изследване** на физични, химични и инженерни системи.
-* 📖 **Методически статии за приложението на компютърната алгебра (MAPLE)** в средното и висшето образование.
+### 📚 Научни Публикации (Publications):
+
+1. **A. Ahmad, K. Haidar, N. Javad, A. Zeinev**, *A criterion to uniform stability for functional perturbed differential equations*, International Journal of Pure and Applied Mathematics, Volume 108, №1, (2016), 107-122.
+2. **A. Zeinev, N. Kitanov**, *Estimates for Functional Partial Differential Equations*, The Journal of Macro Trends in Technology and Innovation, Volume 2, Issue 1, (2014), 17-29.
+3. **A. Ahmad, N. Javaid, M. Rafaqat, A. Zeinev**, *On the stability of the solutions for a delay differential equations with discontinuity*, International Journal of Pure and Applied Mathematics, (2017).
+4. **A. Zeinev, V. Radeva, D. Kolev, V. Todorov, N. Kitanov**, *A class of functional differential equations with "maxima"*.
+5. **T. Donchev, D. Kolev, A. Lazi, A. Nosheen, M. Rafaqat, A. Zeinev**, *Numerical methods for delayed differential equations with discontinuities*.
+6. **V. Radeva, V. Todorov, D. Kolev, A. Zeinev, N. Kitanov**, *Integrability of Fluid Dynamics Models*, Metallurgy (UCTM), (2013).
+7. **D. Kolev, V. Todorov, A. Zeinev**, *Charged Particles Through Electromagnetic Fields*.
+8. **T. Donchev, D. Kolev, A. Lazi, A. Nosheen, M. Rafaqat, A. Zeinev**, *Caratheodory Differential Equations On Cones*.
+9. **R. Ivanov, A. Zeinev**, *Elementary Proof of the John’s Theorem for Nonsmooth Functions*.
+10. **L. Peychev, K. Panovska, A. Tatsis, A. Zeinev**, *Understanding educational quality in informatics in secondary school*.
+11. **S. Bilal, T. Donchev, A. Raza, A. Zeinev, N. Kitanov**, *Reachable Set for Functional Differential Inclusions*.
+
+### 🎤 Доклади и Участия в Конференции (Conference Presentations):
+
+1. **Доклад:** *Участие на юбилейна научна конференция с международно участие по случай 60 години ХТМУ (София)*.
+2. **Доклад:** *Участие с доклад в международна конференция Business and Social Science Research Conference / The Macro Journals Conference on Medicine, Science, and Technology* – Дубровник.
+3. **Доклад:** *Участие с доклад в международна конференция "New Trends in the Applications of Differential Equations in Sciences"*, Българска академия на науките (БАН), София.
+4. **Постерна сесия:** *Участие в постерна сесия (Май 2012 г.)* – Тема: *"Charged particles through electromagnetic fields"*, авторски колектив: Dimitar Kolev, Valeri Todorov, Adem Zeinev.
+5. **Постерна сесия:** *Участие в постерна сесия на ХТМУ (Май 2013 г.)* – Темови доклади: *"Параболични частни диференциални уравнения с maxima"* и *"Geometry of simple states to a model of gas-dynamics"*.
+6. **Доклад:** *7th International Academic Macro Thematic Conference (Dubrovnik 2018)* – Тема: *"On the solution set of evolution inclusions"*.
+7. **Доклад:** *7th International Academic Macro Thematic Conference (Dubrovnik 2018)* – Тема: *"Some Scheme for Averaging of Impulsive Optimal Control Problems"*.
 
 <p align="left">
   <a href="https://orcid.org/0000-0002-0607-2262"><img src="https://img.shields.io/badge/ORCID-0000--0002--0607--2262-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID iD" /></a>
@@ -180,7 +199,7 @@
 ## 📫 13. Официални Контакти (Contacts)
 
 * 🆔 **ORCID iD:** [0000-0002-0607-2262](https://orcid.org/0000-0002-0607-2262)
-* 🏛️ **Research affiliation:** Department of Mathematics, University of Chemical Technology and Metallurgy, Sofia (UCTM)
+* 🏛️ **Research Affiliation:** Department of Mathematics, University of Chemical Technology and Metallurgy, Sofia (UCTM)
 * 🌐 **Личен уебсайт:** [www.daskalo.com/adem1970](https://www.daskalo.com/adem1970)
 * 🎓 **Google Scholar:** [adem zeinev Search Results](https://scholar.google.com/scholar?hl=bg&as_sdt=0%2C5&q=adem+zeinev&btnG=)
 * 🏫 **Електронно портфолио:** [portfolio.e-learning-suablanica.com](https://portfolio.e-learning-suablanica.com)

@@ -1,16 +1,15 @@
-## Hi there 👋
+👨‍💻 За мен
 
-<!--
-**azeynev/azeynev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 В момента работя върху училищни аналитични системи и уеб приложения
 
-Here are some ideas to get you started:
+🌱 Развивам уменията си в JavaScript, HTML5, CSS3, Tailwind CSS и Cloud платформи (Netlify)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Занимавам се с автоматизация на доклади, аналитични системи и уеб дизайн
+
+🛠️ Технологичен стек
+
+📊 GitHub Статистика
+
+Натисни зеления бутон Commit changes... горе вдясно.
+
+След това отиди на линка https://github.com/azeynev и ще видиш своето ново оформено портфолио!

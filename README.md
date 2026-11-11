@@ -1,4 +1,4 @@
-# 🎓 ПОРТФОЛИО ЗА ОФИЦИАЛНА АТЕСТАЦИЯ
+# 🎓 ПРОФЕСИОНАЛНО ПОРТФОЛИО
 # д-р Адем Ибушев Зейнев / Adem ZEINEV, PhD
 
 > **Adem ZEINEV | PhD | PhD in Mathematics | Department of Mathematics | University of Chemical Technology and Metallurgy, Sofia (UCTM)**  

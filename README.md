@@ -1,11 +1,5 @@
-# <p align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Academic/Graduation%20Cap.png" width="50" alt="Cap" /> ПРОФЕСИОНАЛНО ПОРТФОЛИО</p>
-# <p align="center">д-р Адем Ибушев Зейнев / Dr. Adem ZEINEV</p>
-
-<p align="center">
-  <a href="https://orcid.org/0000-0002-0607-2262"><img src="https://img.shields.io/badge/ORCID-0000--0002--0607--2262-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID iD" /></a>
-  <a href="https://scholar.google.com/scholar?hl=bg&as_sdt=0%2C5&q=adem+zeinev&btnG="><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar Profile" /></a>
-  <a href="https://uctm.edu"><img src="https://img.shields.io/badge/UCTM_Sofia-Department_of_Mathematics-003366?style=for-the-badge&logo=academic-pages&logoColor=white" alt="UCTM Research Profile" /></a>
-</p>
+# 🎓 ПОРТФОЛИО ЗА ОФИЦИАЛНА АТЕСТАЦИЯ
+# д-р Адем Ибушев Зейнев / Adem ZEINEV, PhD
 
 > **Adem ZEINEV | PhD | PhD in Mathematics | Department of Mathematics | University of Chemical Technology and Metallurgy, Sofia (UCTM)**  
 > **Старши учител по Математика, Информатика и ИТ | СУ „Св. Паисий Хилендарски“ – с. Абланица (общ. Хаджидимово)**  
@@ -70,6 +64,7 @@
 - 📐 **Applied Mathematics:** Differential equations, numerical methods, mathematical models of engineering and physical processes.
 - ⚙️ **ANSYS Software Suite:** ANSYS Multiphysics, ANSYS Workbench, CFX (computational fluid dynamics, numerical simulations).
 - 🧮 **Computer Algebra Systems:** MAPLE (symbolic computations, visualization, numeric and algebraic modeling).
+- 🛠️ **Engineering Simulations:** 3D modeling, verification and validation of mathematical and software models.
 
 ### 📚 Научни Публикации / Scientific Publications:
 
@@ -94,6 +89,12 @@
 5. **Poster Session:** *UCTM Poster Session (May 2013)* – Topics: *"Parabolic partial differential equations with maxima"* and *"Geometry of simple states to a model of gas-dynamics"*.
 6. **Presentation:** *7th International Academic Macro Thematic Conference (Dubrovnik 2018)* – Topic: *"On the solution set of evolution inclusions"*.
 7. **Presentation:** *7th International Academic Macro Thematic Conference (Dubrovnik 2018)* – Topic: *"Some Scheme for Averaging of Impulsive Optimal Control Problems"*.
+
+<p align="left">
+  <a href="https://orcid.org/0000-0002-0607-2262"><img src="https://img.shields.io/badge/ORCID-0000--0002--0607--2262-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID iD" /></a>
+  <a href="https://scholar.google.com/scholar?hl=bg&as_sdt=0%2C5&q=adem+zeinev&btnG="><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar Profile" /></a>
+  <a href="https://uctm.edu"><img src="https://img.shields.io/badge/UCTM_Sofia-Department_of_Mathematics-003366?style=for-the-badge&logo=academic-pages&logoColor=white" alt="UCTM Research Profile" /></a>
+</p>
 
 ---
 
@@ -154,9 +155,27 @@
 | **Иновативни методи и ИКТ в обучението** | МОН / РУО / Академия | [<img src="https://github.com/azeynev/azeynev/raw/main/cert1.png" width="100">](https://github.com/azeynev/azeynev/raw/main/cert1.png) | 
 | **Математическо моделиране & MAPLE** | Scientific Conference / UCTM | [<img src="https://github.com/azeynev/azeynev/raw/main/cert2.png" width="100">](https://github.com/azeynev/azeynev/raw/main/cert2.png) | 
 
+*(💡 Качете вашите сертификати в репозиторието `azeynev/azeynev` под имената `cert1.png` и `cert2.png`).*
+
 ---
 
-## 🛠️ 9. Технологичен Стек & Инструменти / Tech Stack
+## 🏛️ 9. Институционална Дейност / Institutional Roles
+
+* 📋 **Ръководител направление ИКТ / Head of ICT:** Поддръжка на компютърните кабинети, мрежова инфраструктура и електронни дневници / *Maintenance of IT infrastructure and e-registers*.
+* 📝 **Олимпиади и състезания / Olympiads:** Председател и организатор на училищните кръгове по Математика, Информатика и ИТ.
+* 🤝 **Работни групи / Committees:** Участие в изготвянето на Училищния план за квалификация и иновативни методики.
+
+---
+
+## 📊 10. Анализ на Резултатите / Results & Performance Analysis
+
+* 📈 Висок процент успеваемост на учениците при явяване на Национално външно оценяване (НВО) по Математика в 7. клас.
+* 🎓 Отлични резултати на учениците в гимназиален етап на ДЗИ и състезания по ИТ и информатика.
+* 📑 100% дигитализирано отчитане на резултатите чрез системата „Училищен Барометър“.
+
+---
+
+## 🛠️ 11. Технологичен Стек & Инструменти / Tech Stack
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -168,7 +187,7 @@
 
 ---
 
-## 🔗 10. Интерактивни Връзки / Quick Access
+## 🔗 12. Интерактивни Връзки / Quick Access
 
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--0607--2262-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-0607-2262)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/scholar?hl=bg&as_sdt=0%2C5&q=adem+zeinev&btnG=)
@@ -178,7 +197,7 @@
 
 ---
 
-## 📫 11. Официални Контакти / Official Contacts
+## 📫 13. Официални Контакти / Official Contacts
 
 * 🆔 **ORCID iD:** [0000-0002-0607-2262](https://orcid.org/0000-0002-0607-2262)
 * 🏛️ **Research Affiliation:** Department of Mathematics, University of Chemical Technology and Metallurgy, Sofia (UCTM)

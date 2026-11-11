@@ -1,71 +1,77 @@
-# 🎓 ПРОФЕСИОНАЛНО ПОРТФОЛИО
-# д-р Адем Ибушев Зейнев
+# <p align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Academic/Graduation%20Cap.png" width="50" alt="Cap" /> ПРОФЕСИОНАЛНО ПОРТФОЛИО</p>
+# <p align="center">д-р Адем Ибушев Зейнев / Dr. Adem ZEINEV</p>
+
+<p align="center">
+  <a href="https://orcid.org/0000-0002-0607-2262"><img src="https://img.shields.io/badge/ORCID-0000--0002--0607--2262-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID iD" /></a>
+  <a href="https://scholar.google.com/scholar?hl=bg&as_sdt=0%2C5&q=adem+zeinev&btnG="><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar Profile" /></a>
+  <a href="https://uctm.edu"><img src="https://img.shields.io/badge/UCTM_Sofia-Department_of_Mathematics-003366?style=for-the-badge&logo=academic-pages&logoColor=white" alt="UCTM Research Profile" /></a>
+</p>
 
 > **Adem ZEINEV | PhD | PhD in Mathematics | Department of Mathematics | University of Chemical Technology and Metallurgy, Sofia (UCTM)**  
 > **Старши учител по Математика, Информатика и ИТ | СУ „Св. Паисий Хилендарски“ – с. Абланица (общ. Хаджидимово)**  
+> *Senior Teacher in Mathematics, Computer Science & IT | St. Paisii Hilendarski Secondary School*  
 > *Разработено съгласно изискванията на Наредба № 15 на МОН за статута и професионалното развитие на педагогическите специалисти*
 
 ---
 
-### 📊 ИНТЕГРАЛЕН ПЕДАГОГИЧЕСКИ И НАУЧЕН ИНДЕКС
+### 📊 ИНТЕГРАЛЕН ПЕДАГОГИЧЕСКИ И НАУЧЕН ИНДЕКС / INTEGRATED INDEX
 
-| 🏆 Педагогически Стаж | 🎓 Научна Степен | 🏛️ Университет & Катедра | 🔬 Публикации & Доклади | 💻 Дигитализация |
+| 🏆 Педагогически Стаж / Experience | 🎓 Научна Степен / Academic Degree | 🏛️ Университет & Катедра / University | 🔬 Публикации & Доклади / Publications | 💻 Дигитализация / ICT |
 | :---: | :---: | :---: | :---: | :---: |
 | **25+ Години** *(от 2000 г.)* | **PhD in Mathematics** | **UCTM Sofia · Dept. of Mathematics** | **11 Публикации · 7 Доклада** | **100% Облачна Интеграция** |
 
 ---
 
-## 🏛️ 1. Обща Информация и Педагогически Статус
+## 🏛️ 1. Обща Информация и Педагогически Статус / General Information
 
-* **Имена:** д-р Адем Ибушев Зейнев (Adem ZEINEV, PhD)
-* **Академична принадлежност:** University of Chemical Technology and Metallurgy, Sofia (UCTM) | Department of Mathematics.
-* **Работодател / Училище:** СУ „Св. Паисий Хилендарски“, ул. „Христо Ботев“ №1, с. Абланица (2932), общ. Хаджидимово, обл. Благоевград.
-* **Заемана длъжност:** Старши учител по Математика, Информатика и Информационни технологии.
-* **Специални институционални роли:** Ръководител направление „Информационни и комуникационни технологии“ (ИКТ).
-* **Педагогически стаж:** Непрекъснат стаж от 2000 г. до днес в СУ „Св. Паисий Хилендарски“.
-* **Контакти и Академични Портали:**
+* **Имена / Full Name:** д-р Адем Ибушев Зейнев (Dr. Adem ZEINEV)
+* **Академична принадлежност / Research Affiliation:** Department of Mathematics, University of Chemical Technology and Metallurgy, Sofia (UCTM).
+* **Работодател / Institution:** СУ „Св. Паисий Хилендарски“, ул. „Христо Ботев“ №1, с. Абланица (2932), общ. Хаджидимово, обл. Благоевград / *St. Paisii Hilendarski Secondary School, Ablanitsa*.
+* **Заемана длъжност / Position:** Старши учител по Математика, Информатика и Информационни технологии / *Senior Teacher in Mathematics & ICT*.
+* **Специални роли / Institutional Roles:** Ръководител направление „Информационни и комуникационни технологии“ (ИКТ) / *Head of ICT Department*.
+* **Педагогически стаж / Teaching Experience:** Непрекъснат стаж от 2000 г. до днес (над 25 години) / *Continuous tenure since 2000*.
+* **Контакти и Академични Портали / Academic Profiles:**
   * 🆔 **ORCID iD:** [0000-0002-0607-2262](https://orcid.org/0000-0002-0607-2262)
-  * 🌐 **Личен уебсайт:** [www.daskalo.com/adem1970](https://www.daskalo.com/adem1970)
-  * 🎓 **Google Scholar Профил:** [Google Scholar – adem zeinev](https://scholar.google.com/scholar?hl=bg&as_sdt=0%2C5&q=adem+zeinev&btnG=)
-  * 🏫 **Електронно портфолио:** [portfolio.e-learning-suablanica.com](https://portfolio.e-learning-suablanica.com)
-  * 💻 **GitHub Профил:** [github.com/azeynev](https://github.com/azeynev)
+  * 🌐 **Личен уебсайт / Personal Site:** [www.daskalo.com/adem1970](https://www.daskalo.com/adem1970)
+  * 🎓 **Google Scholar Profile:** [Google Scholar – adem zeinev](https://scholar.google.com/scholar?hl=bg&as_sdt=0%2C5&q=adem+zeinev&btnG=)
+  * 🏫 **Електронно портфолио / E-Portfolio:** [portfolio.e-learning-suablanica.com](https://portfolio.e-learning-suablanica.com)
+  * 💻 **GitHub Profile:** [github.com/azeynev](https://github.com/azeynev)
 
 ---
 
-## 🎓 2. Академична Подготовка, Степени и Квалификации
+## 🎓 2. Академична Подготовка & Степени / Academic Qualifications
 
 - 🎓 **Образователно-научна степен „Доктор“ (PhD in Mathematics):** 
-  - Университет: **University of Chemical Technology and Metallurgy, Sofia (UCTM)** — Department of Mathematics.
-  - Научна специалност: *"Математическо моделиране и приложение на математиката"*.
-  - Защитен дисертационен труд в областта на численото моделиране, еволюционните математически уравнения, хидродинамиката и симулационния анализ.
-  - Уникален изследователски идентификатор: **ORCID iD: 0000-0002-0607-2262**.
-- 🎓 **Висше Образование (Магистър):** 
-  - ЮЗУ „Неофит Рилски“ – гр. Благоевград (Специалност: *Математика и Информатика*).
-- 📜 **Професионално-Квалификационна Степен (ПКС):** 
+  - **Университет / Institution:** University of Chemical Technology and Metallurgy, Sofia (UCTM) — Department of Mathematics.
+  - **Научна специалност / Field:** *"Математическо моделиране и приложение на математиката"* / *Mathematical Modeling and Applications of Mathematics*.
+  - **Дисертационен труд / Thesis Topic:** Численно моделиране, еволюционни математически уравнения, хидродинамика и симулационен анализ / *Numerical modeling, evolutionary partial differential equations, and fluid dynamics simulations*.
+  - **ORCID iD:** [0000-0002-0607-2262](https://orcid.org/0000-0002-0607-2262).
+- 🎓 **Висше Образование / Master of Science (M.Sc.):** 
+  - ЮЗУ „Неофит Рилски“ – гр. Благоевград / *South-West University "Neofit Rilski"* (Специалност: *Математика и Информатика*).
+- 📜 **Професионално-Квалификационна Степен (ПКС) / Professional Certificate:** 
   - Придобита професионално-квалификационна степен за старши учител съгласно изискванията на МОН.
 
 ---
 
-## 🏛️ 3. Атестационна Матрица на Компетенциите (Наредба № 15)
+## 🏛️ 3. Атестационна Матрица на Компетенциите (Наредба № 15 / Ordinance 15)
 
-| Компетентност | Приложение в Учебния Процес & Доказателства |
+| Компетентност / Competency | Приложение в Учебния Процес & Доказателства / Evidence |
 | :--- | :--- |
-| **1. Академична & Академично-методическа** | Задълбочено владение на алгебра, геометрия, компютърно програмиране, алгоритми и математическо моделиране. |
-| **2. Дидактическа & Педагогическа** | Прилагане на практико-приложни методи, сюжетни задачи, интерактивни презентации и проектно-базирано обучение (PBL). |
-| **3. Диагностична & Аналитична** | Авторско разработване на софтуерната система **„Училищен Барометър“** за дигитален анализ на успеваемостта. |
-| **4. Организационна & Комуникативна** | Управление на мрежовата и софтуерна инфраструктура на училището в качеството на Ръководител ИКТ. |
-| **5. Дигитална (STEM & ICT)** | 100% внедряване на облачни технологии, Google Workspace for Education, Smart Classroom и Code Studio. |
+| **1. Академична / Academic** | Задълбочено владение на алгебра, геометрия, компютърно програмиране, алгоритми и математическо моделиране. |
+| **2. Дидактическа / Pedagogical** | Прилагане на практико-приложни методи, сюжетни задачи, интерактивни презентации и проектно-базирано обучение (PBL). |
+| **3. Диагностична / Diagnostic** | Авторско разработване на софтуерната система **„Училищен Барометър“** за дигитален анализ на успеваемостта. |
+| **4. Организационна / Organizational** | Управление на мрежовата и софтуерна инфраструктура на училището в качеството на Ръководител ИКТ. |
+| **5. Дигитална / STEM & Digital** | 100% внедряване на облачни технологии, Google Workspace for Education, Smart Classroom и Code Studio. |
 
 ---
 
-## 🔬 4. Научно-Изследователска Дейност & Списък с Публикации
+## 🔬 4. Научно-Изследователска Дейност & Публикации / Research & Publications
 
-- 📐 **Приложна Математика:** Диференциални уравнения, числени методи, математически модели на инженерни, химични и технологични процеси.
-- ⚙️ **ANSYS Software Suite:** ANSYS Multiphysics, ANSYS Workbench, CFX (компютърна хидродинамика, числено моделиране и симулация на физични процеси).
-- 🧮 **Компютърна Алгебра:** MAPLE (символни изчисления, визуализация, числено и алгебрично моделиране).
-- 🛠️ **Инженерни Симулации:** 3D моделиране, верификация и валидация на математически и софтуерни модели.
+- 📐 **Applied Mathematics:** Differential equations, numerical methods, mathematical models of engineering and physical processes.
+- ⚙️ **ANSYS Software Suite:** ANSYS Multiphysics, ANSYS Workbench, CFX (computational fluid dynamics, numerical simulations).
+- 🧮 **Computer Algebra Systems:** MAPLE (symbolic computations, visualization, numeric and algebraic modeling).
 
-### 📚 Научни Публикации (Publications):
+### 📚 Научни Публикации / Scientific Publications:
 
 1. **A. Ahmad, K. Haidar, N. Javad, A. Zeinev**, *A criterion to uniform stability for functional perturbed differential equations*, International Journal of Pure and Applied Mathematics, Volume 108, №1, (2016), 107-122.
 2. **A. Zeinev, N. Kitanov**, *Estimates for Functional Partial Differential Equations*, The Journal of Macro Trends in Technology and Innovation, Volume 2, Issue 1, (2014), 17-29.
@@ -79,102 +85,78 @@
 10. **L. Peychev, K. Panovska, A. Tatsis, A. Zeinev**, *Understanding educational quality in informatics in secondary school*.
 11. **S. Bilal, T. Donchev, A. Raza, A. Zeinev, N. Kitanov**, *Reachable Set for Functional Differential Inclusions*.
 
-### 🎤 Доклади и Участия в Конференции (Conference Presentations):
+### 🎤 Доклади и Участия в Конференции / Conference Presentations:
 
-1. **Доклад:** *Участие на юбилейна научна конференция с международно участие по случай 60 години ХТМУ (София)*.
-2. **Доклад:** *Участие с доклад в международна конференция Business and Social Science Research Conference / The Macro Journals Conference on Medicine, Science, and Technology* – Дубровник.
-3. **Доклад:** *Участие с доклад в международна конференция "New Trends in the Applications of Differential Equations in Sciences"*, Българска академия на науките (БАН), София.
-4. **Постерна сесия:** *Участие в постерна сесия (Май 2012 г.)* – Тема: *"Charged particles through electromagnetic fields"*, авторски колектив: Dimitar Kolev, Valeri Todorov, Adem Zeinev.
-5. **Постерна сесия:** *Участие в постерна сесия на ХТМУ (Май 2013 г.)* – Темови доклади: *"Параболични частни диференциални уравнения с maxima"* и *"Geometry of simple states to a model of gas-dynamics"*.
-6. **Доклад:** *7th International Academic Macro Thematic Conference (Dubrovnik 2018)* – Тема: *"On the solution set of evolution inclusions"*.
-7. **Доклад:** *7th International Academic Macro Thematic Conference (Dubrovnik 2018)* – Тема: *"Some Scheme for Averaging of Impulsive Optimal Control Problems"*.
-
-<p align="left">
-  <a href="https://orcid.org/0000-0002-0607-2262"><img src="https://img.shields.io/badge/ORCID-0000--0002--0607--2262-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID iD" /></a>
-  <a href="https://scholar.google.com/scholar?hl=bg&as_sdt=0%2C5&q=adem+zeinev&btnG="><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar Profile" /></a>
-  <a href="https://uctm.edu"><img src="https://img.shields.io/badge/UCTM_Sofia-Department_of_Mathematics-003366?style=for-the-badge&logo=academic-pages&logoColor=white" alt="UCTM Research Profile" /></a>
-</p>
+1. **Presentation:** *Scientific Conference with International Participation on the occasion of 60 years UCTM (Sofia)*.
+2. **Presentation:** *International Conference on Business and Social Science Research / The Macro Journals Conference on Medicine, Science, and Technology* – Dubrovnik.
+3. **Presentation:** *International Conference "New Trends in the Applications of Differential Equations in Sciences"*, Bulgarian Academy of Sciences (BAS), Sofia.
+4. **Poster Session:** *Poster Session (May 2012)* – Topic: *"Charged particles through electromagnetic fields"*, authors: Dimitar Kolev, Valeri Todorov, Adem Zeinev.
+5. **Poster Session:** *UCTM Poster Session (May 2013)* – Topics: *"Parabolic partial differential equations with maxima"* and *"Geometry of simple states to a model of gas-dynamics"*.
+6. **Presentation:** *7th International Academic Macro Thematic Conference (Dubrovnik 2018)* – Topic: *"On the solution set of evolution inclusions"*.
+7. **Presentation:** *7th International Academic Macro Thematic Conference (Dubrovnik 2018)* – Topic: *"Some Scheme for Averaging of Impulsive Optimal Control Problems"*.
 
 ---
 
-## 📚 5. Преподавателска Заетост & Учебни Програми по Випуски
+## 📚 5. Преподавателска Заетост / Teaching Curriculum
 
-### 📐 Математика (5. – 12. клас)
-* **V – VII клас (Прогимназиален етап):** Алгебра, геометрия, развитие на логическо мислене, целева подготовка за НВО в 7. клас.
-* **VIII – X клас (Първи гимназиален етап):** Функции, уравнения и неравенства, стереометрия, тригонометрия.
-* **XI – XII клас (Втори гимназиален етап):** Профилирана подготовка, математически анализ, вероятности и статистика, подготовка за ДЗИ.
+### 📐 Математика / Mathematics (Grades 5 – 12)
+* **V – VII Grade:** Algebra, geometry, logical thinking, preparing students for National External Assessment (НВО 7. клас).
+* **VIII – X Grade:** Functions, equations, inequalities, stereometry, trigonometry.
+* **XI – XII Grade:** Advanced Mathematics, calculus, probability & statistics, State Matriculation Exams (ДЗИ 12. клас).
 
-### 💻 Информатика (9. – 12. клас)
-* Основи на информатиката и алгоритмичното мислене.
-* Логически типове данни, оператори, масиви и структури от данни.
-* Алгоритми за търсене и сортиране, Обектно-ориентирано програмиране.
+### 💻 Информатика / Computer Science (Grades 9 – 12)
+* Fundamentals of computer science and algorithmic thinking.
+* Data types, control structures, arrays, search/sort algorithms.
+* Object-Oriented Programming (OOP).
 
-### 🖥️ Информационни технологии (5. – 12. клас)
-* **V – VIII клас:** Компютърни системи, текстообработка, електронни таблици, презентации, безопасност в интернет.
-* **IX – XII клас:** Бази данни, компютърни мрежи, компютърна графика, WEB дизайн и изграждане на уеб съдържание.
+### 🖥️ Информационни технологии / Information Technology (Grades 5 – 12)
+* **V – VIII Grade:** Computer systems, word processing, spreadsheets, presentations, cybersecurity.
+* **IX – XII Grade:** Databases, computer networks, graphic design, web development.
 
 ---
 
-## 🌐 6. Дигитална Лаборатория & e-Learning Ресурси
+## 🌐 6. Дигитална Лаборатория / e-Learning & Digital Tools
 
-| Платформа / Инструмент | Предназначение | Статус / Линкове |
+| Платформа / Tool | Предназначение / Description | Статус / Links |
 | :--- | :--- | :---: |
-| 🧠 **Smart Classroom & Edmodo** | Интерактивно споделяне на ресурси, тестове и задачи | [🔗 Преглед](https://www.daskalo.com/adem1970) |
-| 🧩 **Code Studio** | Обучение по компютърно програмиране и кодиране | [🔗 Преглед](https://studio.code.org) |
-| 📐 **GeoGebra & Desmos** | Визуализация на геометрични и алгебрични функции | [🔗 Преглед](https://www.geogebra.org) |
-| 📝 **Електронни Задачници** | Интерактивни тестове и кръстословици за мерни единици | [🔗 Преглед](https://www.daskalo.com/adem1970) |
+| 🧠 **Smart Classroom & Edmodo** | Interactive learning environment & quizzes | [🔗 View](https://www.daskalo.com/adem1970) |
+| 🧩 **Code Studio** | Computer programming and coding lessons | [🔗 View](https://studio.code.org) |
+| 📐 **GeoGebra & Desmos** | Interactive mathematical visualization | [🔗 View](https://www.geogebra.org) |
+| 📝 **Digital Workbooks** | Interactive quizzes & online crosswords | [🔗 View](https://www.daskalo.com/adem1970) |
 
 ---
 
-## 🏆 7. Авторски Софтуерни Системи & Образователни Разработки
+## 🏆 7. Авторски Софтуер / Custom Educational Software
 
-#### 📊 [Училищен Барометър (Professional Edition)](https://azeynev.netlify.app)
-> Автономно уеб приложение за пълен количествен и методически анализ на успеваемостта по МО и випуски, изчисляване на интегрални показатели и автоматичен експорт към DOCX/Word и JSON.
-* **Технологии:** Vanilla JavaScript (ES6+), HTML5, CSS3, LocalStorage API, Word Exporter.
+#### 📊 [School Barometer (Professional Edition)](https://azeynev.netlify.app)
+> Web application for quantitative analysis of school academic results, calculating integral indicators, and automated exports to DOCX/JSON.
+* **Tech Stack:** Vanilla JavaScript (ES6+), HTML5, CSS3, LocalStorage API, Word Exporter.
 
-#### 📝 [Формуляр за Учители (Google Forms Integration)](https://github.com/azeynev)
-> Адаптивен уеб модул с Focus Mode, проследяване на напредъка и автоматичен Тъмен режим за вграждане на Google Forms с цел събиране на данни от учители.
-* **Технологии:** Tailwind CSS, Responsive Iframes, FontAwesome Icons.
+#### 📝 [Teacher Form Module (Google Forms Integration)](https://github.com/azeynev)
+> Responsive web wrapper featuring Focus Mode, progress tracking, and Dark Mode for embedded Google Forms.
+* **Tech Stack:** Tailwind CSS, Responsive Iframes, FontAwesome Icons.
 
 ---
 
-## 📜 8. Сертификати и Квалификации (Дигитална Галерия)
+## 📜 8. Сертификати и Квалификации / Certificates Gallery
 
-### 🖼️ Галерия със Сертификати:
+### 🖼️ Дигитална Галерия / Digital Gallery:
 
 <p align="center">
   <img src="https://github.com/azeynev/azeynev/raw/main/cert1.png" width="45%" alt="Сертификат 1" />
   <img src="https://github.com/azeynev/azeynev/raw/main/cert2.png" width="45%" alt="Сертификат 2" />
 </p>
 
-### 📋 Описание и Дигитален Архив:
+### 📋 Описание и Архив / Digital Archive:
 
-| Сертификат / Обучение | Институция / Организация | Документ / Преглед | 
+| Сертификат / Certificate | Организация / Institution | Преглед / View | 
 | :--- | :--- | :---: | 
 | **Иновативни методи и ИКТ в обучението** | МОН / РУО / Академия | [<img src="https://github.com/azeynev/azeynev/raw/main/cert1.png" width="100">](https://github.com/azeynev/azeynev/raw/main/cert1.png) | 
-| **Математическо моделиране & MAPLE** | Научна конференция / UCTM | [<img src="https://github.com/azeynev/azeynev/raw/main/cert2.png" width="100">](https://github.com/azeynev/azeynev/raw/main/cert2.png) | 
-
-*(💡 За да се показват снимките, качете графичните си файлове в репозиторието `azeynev/azeynev` с имена `cert1.png` и `cert2.png`).*
+| **Математическо моделиране & MAPLE** | Scientific Conference / UCTM | [<img src="https://github.com/azeynev/azeynev/raw/main/cert2.png" width="100">](https://github.com/azeynev/azeynev/raw/main/cert2.png) | 
 
 ---
 
-## 🏛️ 9. Институционална Дейност & Комисии
-
-* 📋 **Ръководител направление ИКТ:** Поддръжка на компютърните кабинети, мрежова инфраструктура и електронни дневници.
-* 📝 **Председател/Участник в комисии:** Организация на училищни кръгове на олимпиади по Математика, Информатика и ИТ.
-* 🤝 **Работни групи:** Участие в изготвянето на Училищния план за квалификация и иновативни методики.
-
----
-
-## 📊 10. Анализ на Резултатите & Успеваемост на Учениците
-
-* 📈 Висок процент успеваемост на учениците при явяване на Национално външно оценяване (НВО) по Математика в 7. клас.
-* 🎓 Отлични резултати на учениците в гимназиален етап на ДЗИ и състезания по ИТ и информатика.
-* 📑 100% дигитализирано отчитане на резултатите от контролни и класни работи чрез системата „Училищен Барометър“.
-
----
-
-## 🛠️ 11. Технологичен Стек и Инструменти
+## 🛠️ 9. Технологичен Стек & Инструменти / Tech Stack
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -186,7 +168,7 @@
 
 ---
 
-## 🔗 12. Интерактивни Връзки (Quick Access)
+## 🔗 10. Интерактивни Връзки / Quick Access
 
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--0607--2262-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-0607-2262)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/scholar?hl=bg&as_sdt=0%2C5&q=adem+zeinev&btnG=)
@@ -196,12 +178,12 @@
 
 ---
 
-## 📫 13. Официални Контакти (Contacts)
+## 📫 11. Официални Контакти / Official Contacts
 
 * 🆔 **ORCID iD:** [0000-0002-0607-2262](https://orcid.org/0000-0002-0607-2262)
 * 🏛️ **Research Affiliation:** Department of Mathematics, University of Chemical Technology and Metallurgy, Sofia (UCTM)
-* 🌐 **Личен уебсайт:** [www.daskalo.com/adem1970](https://www.daskalo.com/adem1970)
+* 🌐 **Personal Website:** [www.daskalo.com/adem1970](https://www.daskalo.com/adem1970)
 * 🎓 **Google Scholar:** [adem zeinev Search Results](https://scholar.google.com/scholar?hl=bg&as_sdt=0%2C5&q=adem+zeinev&btnG=)
-* 🏫 **Електронно портфолио:** [portfolio.e-learning-suablanica.com](https://portfolio.e-learning-suablanica.com)
-* 📍 **Адрес:** СУ „Св. Паисий Хилендарски“, ул. „Христо Ботев“ №1, с. Абланица (2932), общ. Хаджидимово
-* 💻 **GitHub Профил:** [github.com/azeynev](https://github.com/azeynev)
+* 🏫 **E-Portfolio:** [portfolio.e-learning-suablanica.com](https://portfolio.e-learning-suablanica.com)
+* 📍 **Address:** St. Paisii Hilendarski Secondary School, 1 Hristo Botev Str., Ablanitsa (2932), Hadzhidimovo Municipality, Bulgaria
+* 💻 **GitHub Profile:** [github.com/azeynev](https://github.com/azeynev)

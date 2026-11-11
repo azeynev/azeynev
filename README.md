@@ -1,4 +1,4 @@
-# 🎓 Професионално Портфолио
+# 🎓 Професионално Портфолио за Атестация
 
 # д-р Адем Ибушев Зейнев (azeynev)
 
@@ -95,14 +95,23 @@
 
 ---
 
-## 📜 8. Квалификационни курсове & Публикации
+## 📜 8. Сертификати и Квалификации (Дигитална Галерия)
 
-| Тема на курса / Публикацията | Институция / Издание | Роля / Степен |
-| :--- | :--- | :---: |
-| **Математическо моделиране на процеси** | Научни списания & Доклади | Автор / PhD |
-| **Училищна аналитика и методически барометри** | СУ „Св. Паисий Хилендарски“ | Разработил |
-| **Иновативни методи и ИКТ в образованието** | МОН / РУО / Академии | Участник |
-| **Програмиране и Уеб технологии** | SoftUni, Udemy, FreeCodeCamp | Сертифициран |
+### 🖼️ Галерия със сертификати:
+
+<p align="center">
+  <img src="https://github.com/azeynev/azeynev/raw/main/cert1.png" width="45%" alt="Сертификат 1" />
+  <img src="https://github.com/azeynev/azeynev/raw/main/cert2.png" width="45%" alt="Сертификат 2" />
+</p>
+
+### 📋 Описание и дигитален архив:
+
+| Сертификат / Обучение | Вид qualification | Документ / Преглед | 
+| :--- | :--- | :---: | 
+| **Иновативни методи и ИКТ в обучението** | МОН / РУО / Академия | [<img src="https://github.com/azeynev/azeynev/raw/main/cert1.png" width="100">](https://github.com/azeynev/azeynev/raw/main/cert1.png) | 
+| **Математическо моделиране & MAPLE** | Научна конференция | [<img src="https://github.com/azeynev/azeynev/raw/main/cert2.png" width="100">](https://github.com/azeynev/azeynev/raw/main/cert2.png) | 
+
+*(💡 За да се показват снимките, качете графичните си файлове в репозиторието `azeynev/azeynev` с имена `cert1.png` и `cert2.png`).*
 
 ---
 
@@ -134,9 +143,17 @@
 
 ---
 
-## 📫 12. Официални Контакти (Contacts)
+## 🔗 12. Персонални бутони за бърз достъп (Quick Links)
+
+[![Училищен Барометър](https://img.shields.io/badge/Училищен_Барометър-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://azeynev.netlify.app)
+[![Личен Уебсайт](https://img.shields.io/badge/Daskalo.com-059669?style=for-the-badge&logo=book&logoColor=white)](https://www.daskalo.com/adem1970)
+[![Електронно Портфолио](https://img.shields.io/badge/Е--Портфолио-D97706?style=for-the-badge&logo=school&logoColor=white)](https://portfolio.e-learning-suablanica.com)
+
+---
+
+## 📫 13. Официални Контакти (Contacts)
 
 * 🌐 **Личен уебсайт:** [www.daskalo.com/adem1970](https://www.daskalo.com/adem1970)
 * 🏫 **Електронно портфолио:** [portfolio.e-learning-suablanica.com](https://portfolio.e-learning-suablanica.com)
 * 📍 **Адрес:** СУ „Св. Паисий Хилендарски“, ул. „Христо Ботев“ №1, с. Абланица (2932), общ. Хаджидимово
-* 💻 **GitHub Profil:** [github.com/azeynev](https://github.com/azeynev)
+* 💻 **GitHub Профил:** [github.com/azeynev](https://github.com/azeynev)

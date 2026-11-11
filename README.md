@@ -1,4 +1,4 @@
-# 🎓 PROFESIONALNO ПОРТФОЛИО
+# 🎓 ПРОФЕСИОНАЛНО ПОРТФОЛИО
 # д-р Адем Ибушев Зейнев
 
 > **Старши учител по Математика, Информатика и ИТ | Доктор по математическо моделиране**  
@@ -9,7 +9,7 @@
 
 ### 📊 ИНТЕГРАЛЕН ПЕДАГОГИЧЕСКИ И НАУЧЕН ИНДЕКС
 
-| 🏆 Педагогически Стаж | 🎓 Научна Степен | 📈 Среден Успех на Учениците | 🔬 Google Scholar / Цитирания | 💻 Дигитализация |
+| 🏆 Педагогически Стаж | 🎓 Научна Степен | 📈 Среден Успех на Учениците | 🔬 Google Scholar / ORCID | 💻 Дигитализация |
 | :---: | :---: | :---: | :---: | :---: |
 | **25+ Години** *(от 2000 г.)* | **ОНС „Доктор“ (PhD)** | **Много Добър (5.24)** | **Академичен Профил & Доклади** | **100% Облачна Интеграция** |
 
@@ -23,6 +23,7 @@
 * **Специални институционални роли:** Ръководител направление „Информационни и комуникационни технологии“ (ИКТ).
 * **Педагогически стаж:** Непрекъснат стаж от 2000 г. до днес в СУ „Св. Паисий Хилендарски“.
 * **Контакти и Академични Портали:**
+  * 🆔 **ORCID iD:** [0000-0002-0607-2262](https://orcid.org/0000-0002-0607-2262)
   * 🌐 **Личен уебсайт:** [www.daskalo.com/adem1970](https://www.daskalo.com/adem1970)
   * 🎓 **Google Scholar Профил:** [Google Scholar – adem zeinev](https://scholar.google.com/scholar?hl=bg&as_sdt=0%2C5&q=adem+zeinev&btnG=)
   * 🏫 **Електронно портфолио:** [portfolio.e-learning-suablanica.com](https://portfolio.e-learning-suablanica.com)
@@ -35,6 +36,7 @@
 - 🎓 **Образователно-научна степен „Доктор“ (PhD):** 
   - Научна специалност: *"Математическо моделиране и приложение на математиката"*.
   - Защитен дисертационен труд в областта на численото моделиране, еволюционните математически уравнения и симулационния анализ.
+  - Уникален изследователски идентификатор: **ORCID iD: 0000-0002-0607-2262**.
 - 🎓 **Висше Образование (Магистър):** 
   - ЮЗУ „Неофит Рилски“ – гр. Благоевград (Специалност: *Математика и Информатика*).
 - 📜 **Професионално-Квалификационна Степен (ПКС):** 
@@ -54,19 +56,22 @@
 
 ---
 
-## 🔬 4. Научно-Изследователска Дейност, Публикации & Google Scholar
+## 🔬 4. Научно-Изследователска Дейност, Публикации, Google Scholar & ORCID
 
 - 📐 **Приложна Математика:** Диференциални уравнения, числени методи, математически модели на инженерни и технологични процеси.
 - ⚙️ **ANSYS Software Suite:** ANSYS Multiphysics, ANSYS Workbench, CFX (компютърна хидродинамика, числено моделиране и симулация на физични процеси).
 - 🧮 **Компютърна Алгебра:** MAPLE (символни изчисления, визуализация, числено и алгебрично моделиране).
 - 🛠️ **Инженерни Симулации:** 3D моделиране, верификация и валидация на математически и софтуерни модели.
 
-### 📚 Публикации и научни трудове (Google Scholar Indexing):
+### 📚 Публикации и научни трудове (Google Scholar & ORCID Indexing):
 * 📖 **Изследване и моделиране на топло- и масообменни процеси** в академични издания и сборници от научни конференции.
-* 📖 **Математически модели за аналитично и числено изследване** на физични и инженерни системи (индексирани в Google Scholar).
+* 📖 **Математически модели за аналитично и числено изследване** на физични и инженерни системи.
 * 📖 **Методически статии за приложението на компютърната алгебра (MAPLE)** в средното и висшето образование.
 
-[![Google Scholar Profile](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/scholar?hl=bg&as_sdt=0%2C5&q=adem+zeinev&btnG=)
+<p align="left">
+  <a href="https://orcid.org/0000-0002-0607-2262"><img src="https://img.shields.io/badge/ORCID-0000--0002--0607--2262-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID iD" /></a>
+  <a href="https://scholar.google.com/scholar?hl=bg&as_sdt=0%2C5&q=adem+zeinev&btnG="><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar Profile" /></a>
+</p>
 
 ---
 
@@ -161,6 +166,7 @@
 
 ## 🔗 12. Интерактивни Връзки (Quick Access)
 
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--0607--2262-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-0607-2262)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/scholar?hl=bg&as_sdt=0%2C5&q=adem+zeinev&btnG=)
 [![Училищен Барометър](https://img.shields.io/badge/Училищен_Барометър-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://azeynev.netlify.app)
 [![Личен Уебсайт](https://img.shields.io/badge/Daskalo.com-059669?style=for-the-badge&logo=book&logoColor=white)](https://www.daskalo.com/adem1970)
@@ -170,6 +176,7 @@
 
 ## 📫 13. Официални Контакти (Contacts)
 
+* 🆔 **ORCID iD:** [0000-0002-0607-2262](https://orcid.org/0000-0002-0607-2262)
 * 🌐 **Личен уебсайт:** [www.daskalo.com/adem1970](https://www.daskalo.com/adem1970)
 * 🎓 **Google Scholar:** [adem zeinev Search Results](https://scholar.google.com/scholar?hl=bg&as_sdt=0%2C5&q=adem+zeinev&btnG=)
 * 🏫 **Електронно портфолио:** [portfolio.e-learning-suablanica.com](https://portfolio.e-learning-suablanica.com)

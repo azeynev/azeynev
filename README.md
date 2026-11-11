@@ -1,24 +1,25 @@
 # 🎓 ПРОФЕСИОНАЛНО ПОРТФОЛИО
 # д-р Адем Ибушев Зейнев
 
-> **Старши учител по Математика, Информатика и ИТ | Доктор по математическо моделиране**  
-> **СУ „Св. Паисий Хилендарски“ – с. Абланица (общ. Хаджидимово)**  
+> **Adem ZEINEV | PhD | PhD in Mathematics | Department of Mathematics | University of Chemical Technology and Metallurgy, Sofia (UCTM)**  
+> **Старши учител по Математика, Информатика и ИТ | СУ „Св. Паисий Хилендарски“ – с. Абланица (общ. Хаджидимово)**  
 > *Разработено съгласно изискванията на Наредба № 15 на МОН за статута и професионалното развитие на педагогическите специалисти*
 
 ---
 
 ### 📊 ИНТЕГРАЛЕН ПЕДАГОГИЧЕСКИ И НАУЧЕН ИНДЕКС
 
-| 🏆 Педагогически Стаж | 🎓 Научна Степен | 📈 Среден Успех на Учениците | 🔬 Google Scholar / ORCID | 💻 Дигитализация |
+| 🏆 Педагогически Стаж | 🎓 Научна Степен | 🏛️ Университет & Катедра | 🔬 Google Scholar / ORCID | 💻 Дигитализация |
 | :---: | :---: | :---: | :---: | :---: |
-| **25+ Години** *(от 2000 г.)* | **ОНС „Доктор“ (PhD)** | **Много Добър (5.24)** | **Академичен Профил & Доклади** | **100% Облачна Интеграция** |
+| **25+ Години** *(от 2000 г.)* | **PhD in Mathematics** | **UCTM Sofia · Dept. of Mathematics** | **Академичен Профил & Доклади** | **100% Облачна Интеграция** |
 
 ---
 
 ## 🏛️ 1. Обща Информация и Педагогически Статус
 
-* **Имена:** д-р Адем Ибушев Зейнев
-* **Работодател / Институция:** СУ „Св. Паисий Хилендарски“, ул. „Христо Ботев“ №1, с. Абланица (2932), общ. Хаджидимово, обл. Благоевград.
+* **Имена:** д-р Адем Ибушев Зейнев (Adem ZEINEV, PhD)
+* **Академична принадлежност:** University of Chemical Technology and Metallurgy, Sofia (UCTM) | Department of Mathematics.
+* **Работодател / Училище:** СУ „Св. Паисий Хилендарски“, ул. „Христо Ботев“ №1, с. Абланица (2932), общ. Хаджидимово, обл. Благоевград.
 * **Заемана длъжност:** Старши учител по Математика, Информатика и Информационни технологии.
 * **Специални институционални роли:** Ръководител направление „Информационни и комуникационни технологии“ (ИКТ).
 * **Педагогически стаж:** Непрекъснат стаж от 2000 г. до днес в СУ „Св. Паисий Хилендарски“.
@@ -33,9 +34,10 @@
 
 ## 🎓 2. Академична Подготовка, Степени и Квалификации
 
-- 🎓 **Образователно-научна степен „Доктор“ (PhD):** 
+- 🎓 **Образователно-научна степен „Доктор“ (PhD in Mathematics):** 
+  - Университет: **University of Chemical Technology and Metallurgy, Sofia (UCTM)** — Department of Mathematics.
   - Научна специалност: *"Математическо моделиране и приложение на математиката"*.
-  - Защитен дисертационен труд в областта на численото моделиране, еволюционните математически уравнения и симулационния анализ.
+  - Защитен дисертационен труд в областта на численото моделиране, еволюционните математически уравнения, хидродинамиката и симулационния анализ.
   - Уникален изследователски идентификатор: **ORCID iD: 0000-0002-0607-2262**.
 - 🎓 **Висше Образование (Магистър):** 
   - ЮЗУ „Неофит Рилски“ – гр. Благоевград (Специалност: *Математика и Информатика*).
@@ -56,21 +58,22 @@
 
 ---
 
-## 🔬 4. Научно-Изследователска Дейност, Публикации, Google Scholar & ORCID
+## 🔬 4. Научно-Изследователска Дейност & Research Profile (UCTM)
 
-- 📐 **Приложна Математика:** Диференциални уравнения, числени методи, математически модели на инженерни и технологични процеси.
+- 📐 **Приложна Математика:** Диференциални уравнения, числени методи, математически модели на инженерни, химични и технологични процеси.
 - ⚙️ **ANSYS Software Suite:** ANSYS Multiphysics, ANSYS Workbench, CFX (компютърна хидродинамика, числено моделиране и симулация на физични процеси).
 - 🧮 **Компютърна Алгебра:** MAPLE (символни изчисления, визуализация, числено и алгебрично моделиране).
 - 🛠️ **Инженерни Симулации:** 3D моделиране, верификация и валидация на математически и софтуерни модели.
 
 ### 📚 Публикации и научни трудове (Google Scholar & ORCID Indexing):
-* 📖 **Изследване и моделиране на топло- и масообменни процеси** в академични издания и сборници от научни конференции.
-* 📖 **Математически модели за аналитично и числено изследване** на физични и инженерни системи.
+* 📖 **Изследване и моделиране на топло- и масообменни процеси** в академични издания на UCTM и сборници от международни научни конференции.
+* 📖 **Математически модели за аналитично и числено изследване** на физични, химични и инженерни системи.
 * 📖 **Методически статии за приложението на компютърната алгебра (MAPLE)** в средното и висшето образование.
 
 <p align="left">
   <a href="https://orcid.org/0000-0002-0607-2262"><img src="https://img.shields.io/badge/ORCID-0000--0002--0607--2262-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID iD" /></a>
   <a href="https://scholar.google.com/scholar?hl=bg&as_sdt=0%2C5&q=adem+zeinev&btnG="><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar Profile" /></a>
+  <a href="https://uctm.edu"><img src="https://img.shields.io/badge/UCTM_Sofia-Department_of_Mathematics-003366?style=for-the-badge&logo=academic-pages&logoColor=white" alt="UCTM Research Profile" /></a>
 </p>
 
 ---
@@ -130,7 +133,7 @@
 | Сертификат / Обучение | Институция / Организация | Документ / Преглед | 
 | :--- | :--- | :---: | 
 | **Иновативни методи и ИКТ в обучението** | МОН / РУО / Академия | [<img src="https://github.com/azeynev/azeynev/raw/main/cert1.png" width="100">](https://github.com/azeynev/azeynev/raw/main/cert1.png) | 
-| **Математическо моделиране & MAPLE** | Научна конференция | [<img src="https://github.com/azeynev/azeynev/raw/main/cert2.png" width="100">](https://github.com/azeynev/azeynev/raw/main/cert2.png) | 
+| **Математическо моделиране & MAPLE** | Научна конференция / UCTM | [<img src="https://github.com/azeynev/azeynev/raw/main/cert2.png" width="100">](https://github.com/azeynev/azeynev/raw/main/cert2.png) | 
 
 *(💡 За да се показват снимките, качете графичните си файлове в репозиторието `azeynev/azeynev` с имена `cert1.png` и `cert2.png`).*
 
@@ -168,15 +171,16 @@
 
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--0607--2262-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-0607-2262)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/scholar?hl=bg&as_sdt=0%2C5&q=adem+zeinev&btnG=)
+[![UCTM Research Profile](https://img.shields.io/badge/UCTM_Sofia-Department_of_Mathematics-003366?style=for-the-badge&logo=academic-pages&logoColor=white)](https://uctm.edu)
 [![Училищен Барометър](https://img.shields.io/badge/Училищен_Барометър-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://azeynev.netlify.app)
 [![Личен Уебсайт](https://img.shields.io/badge/Daskalo.com-059669?style=for-the-badge&logo=book&logoColor=white)](https://www.daskalo.com/adem1970)
-[![Електронно Портфолио](https://img.shields.io/badge/Е--Портфолио-D97706?style=for-the-badge&logo=school&logoColor=white)](https://portfolio.e-learning-suablanica.com)
 
 ---
 
 ## 📫 13. Официални Контакти (Contacts)
 
 * 🆔 **ORCID iD:** [0000-0002-0607-2262](https://orcid.org/0000-0002-0607-2262)
+* 🏛️ **Research affiliation:** Department of Mathematics, University of Chemical Technology and Metallurgy, Sofia (UCTM)
 * 🌐 **Личен уебсайт:** [www.daskalo.com/adem1970](https://www.daskalo.com/adem1970)
 * 🎓 **Google Scholar:** [adem zeinev Search Results](https://scholar.google.com/scholar?hl=bg&as_sdt=0%2C5&q=adem+zeinev&btnG=)
 * 🏫 **Електронно портфолио:** [portfolio.e-learning-suablanica.com](https://portfolio.e-learning-suablanica.com)

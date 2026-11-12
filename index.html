@@ -1,660 +1,208 @@
-<!DOCTYPE html>
-<html lang="bg" data-theme="light">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Д-р Адем Ибушев Зейнев | Професионално Портфолио</title>
-    <!-- Шрифтове и икони -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
-    <!-- Поддръжка на LaTeX формули (MathJax) -->
-    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-    <style>
-        :root {
-            --bg-body: #f1f5f9;
-            --bg-card: #ffffff;
-            --bg-subtle: #f8fafc;
-            --text-main: #0f172a;
-            --text-muted: #475569;
-            --border-color: #e2e8f0;
-            --primary: #1d4ed8;
-            --primary-hover: #1e40af;
-            --accent: #0ea5e9;
-            --badge-bg: #eff6ff;
-            --badge-text: #1d4ed8;
-            --shadow: 0 10px 25px -5px rgba(15, 23, 42, 0.06), 0 8px 10px -6px rgba(15, 23, 42, 0.04);
-        }
+# 🎓 ПРОФЕСИОНАЛНО ПОРТФОЛИО
+# д-р Адем Ибушев Зейнев / Adem ZEINEV, PhD
 
-        [data-theme="dark"] {
-            --bg-body: #0b1120;
-            --bg-card: #1e293b;
-            --bg-subtle: #0f172a;
-            --text-main: #f8fafc;
-            --text-muted: #94a3b8;
-            --border-color: #334155;
-            --primary: #3b82f6;
-            --primary-hover: #60a5fa;
-            --accent: #38bdf8;
-            --badge-bg: rgba(59, 130, 246, 0.15);
-            --badge-text: #93c5fd;
-            --shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.4);
-        }
+> **Adem ZEINEV | PhD | PhD in Mathematics | Department of Mathematics | University of Chemical Technology and Metallurgy, Sofia (UCTM)**  
+> **Старши учител по Математика, Информатика и ИТ | СУ „Св. Паисий Хилендарски“ – с. Абланица (общ. Хаджидимово)**  
+> *Senior Teacher in Mathematics, Computer Science & IT | St. Paisii Hilendarski Secondary School*  
+> *Разработено съгласно изискванията на Наредба № 15 на МОН за статута и професионалното развитие на педагогическите специалисти*
 
-        * { box-sizing: border-box; scroll-behavior: smooth; }
-        body {
-            font-family: 'Inter', system-ui, -apple-system, sans-serif;
-            background-color: var(--bg-body);
-            color: var(--text-main);
-            margin: 0;
-            line-height: 1.65;
-            transition: background-color 0.3s, color 0.3s;
-        }
+---
 
-        /* Горна контролна лента */
-        .top-controls {
-            position: fixed;
-            top: 16px;
-            right: 20px;
-            z-index: 1000;
-            display: flex;
-            gap: 8px;
-        }
-        .ctrl-btn {
-            background: rgba(15, 23, 42, 0.75);
-            backdrop-filter: blur(8px);
-            color: #ffffff;
-            border: 1px solid rgba(255, 255, 255, 0.2);
-            padding: 6px 12px;
-            border-radius: 20px;
-            font-size: 0.82rem;
-            font-weight: 600;
-            cursor: pointer;
-            transition: all 0.2s;
-        }
-        .ctrl-btn:hover { background: var(--primary); border-color: var(--primary); }
+### 📊 ИНТЕГРАЛЕН ПЕДАГОГИЧЕСКИ И НАУЧЕН ИНДЕКС / INTEGRATED INDEX
 
-        /* Hero секция с математическа анимация */
-        header {
-            position: relative;
-            background: linear-gradient(135deg, #090d16 0%, #1e3a8a 60%, #0f172a 100%);
-            color: #ffffff;
-            padding: 4.5rem 1.5rem 3.5rem;
-            text-align: center;
-            overflow: hidden;
-        }
-        #math-canvas {
-            position: absolute;
-            top: 0; left: 0;
-            width: 100%; height: 100%;
-            opacity: 0.35;
-            pointer-events: none;
-        }
-        .hero-content {
-            position: relative;
-            z-index: 2;
-            max-width: 900px;
-            margin: 0 auto;
-        }
-        .mon-tag {
-            display: inline-block;
-            background: rgba(56, 189, 248, 0.18);
-            border: 1px solid rgba(56, 189, 248, 0.45);
-            color: #7dd3fc;
-            padding: 4px 14px;
-            border-radius: 30px;
-            font-size: 0.8rem;
-            font-weight: 600;
-            letter-spacing: 0.5px;
-            text-transform: uppercase;
-            margin-bottom: 1rem;
-        }
-        header h1 {
-            margin: 0;
-            font-size: 2.6rem;
-            font-weight: 800;
-            letter-spacing: -0.02em;
-            line-height: 1.2;
-        }
-        .hero-en {
-            font-size: 1.15rem;
-            color: #93c5fd;
-            font-weight: 500;
-            margin-top: 0.3rem;
-        }
-        .hero-roles {
-            margin: 1.2rem auto 0;
-            max-width: 780px;
-            font-size: 1.05rem;
-            color: #e2e8f0;
-        }
-        .hero-badges {
-            margin-top: 1.6rem;
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: center;
-            gap: 8px;
-        }
-        .hero-badge {
-            background: rgba(255, 255, 255, 0.1);
-            backdrop-filter: blur(4px);
-            border: 1px solid rgba(255, 255, 255, 0.2);
-            padding: 6px 14px;
-            border-radius: 8px;
-            font-size: 0.85rem;
-            font-weight: 500;
-        }
+| 🏆 Педагогически Стаж / Experience | 🎓 Научна Степен / Academic Degree | 🏛️ Университет & Катедра / University | 🔬 Публикации & Доклади / Publications | 💻 Дигитализация / ICT |
+| :---: | :---: | :---: | :---: | :---: |
+| **25+ Години** *(от 2000 г.)* | **PhD in Mathematics** | **UCTM Sofia · Dept. of Mathematics** | **11 Публикации · 7 Доклада** | **100% Облачна Интеграция** |
 
-        /* Навигация */
-        nav {
-            background: var(--bg-card);
-            border-bottom: 1px solid var(--border-color);
-            position: sticky;
-            top: 0;
-            z-index: 900;
-            padding: 0.75rem 1rem;
-            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.04);
-        }
-        .nav-inner {
-            max-width: 1040px;
-            margin: 0 auto;
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: center;
-            gap: 6px;
-        }
-        nav a {
-            color: var(--text-main);
-            text-decoration: none;
-            font-size: 0.88rem;
-            font-weight: 600;
-            padding: 6px 12px;
-            border-radius: 8px;
-            transition: all 0.2s;
-        }
-        nav a:hover {
-            background: var(--badge-bg);
-            color: var(--primary);
-        }
+---
 
-        /* Основен контейнер */
-        main {
-            max-width: 1040px;
-            margin: 2.5rem auto;
-            padding: 0 1.25rem;
-        }
+## 🏛️ 1. Обща Информация и Педагогически Статус / General Information
 
-        /* Карти за бърза статистика */
-        .stats-bar {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
-            gap: 1rem;
-            margin-bottom: 2.2rem;
-        }
-        .stat-card {
-            background: var(--bg-card);
-            border: 1px solid var(--border-color);
-            border-radius: 14px;
-            padding: 1.3rem;
-            text-align: center;
-            box-shadow: var(--shadow);
-            transition: transform 0.2s;
-        }
-        .stat-card:hover { transform: translateY(-3px); }
-        .stat-num {
-            font-size: 1.65rem;
-            font-weight: 800;
-            color: var(--primary);
-            display: block;
-        }
-        .stat-label {
-            font-size: 0.85rem;
-            color: var(--text-muted);
-            font-weight: 500;
-        }
+* **Имена / Full Name:** д-р Адем Ибушев Зейнев (Dr. Adem ZEINEV)
+* **Академична принадлежност / Research Affiliation:** Department of Mathematics, University of Chemical Technology and Metallurgy, Sofia (UCTM).
+* **Работодател / Institution:** СУ „Св. Паисий Хилендарски“, ул. „Христо Ботев“ №1, с. Абланица (2932), общ. Хаджидимово, обл. Благоевград / *St. Paisii Hilendarski Secondary School, Ablanitsa*.
+* **Заемана длъжност / Position:** Старши учител по Математика, Информатика и Информационни технологии / *Senior Teacher in Mathematics & ICT*.
+* **Специални роли / Institutional Roles:** Ръководител направление „Информационни и комуникационни технологии“ (ИКТ) / *Head of ICT Department*.
+* **Педагогически стаж / Teaching Experience:** Непрекъснат стаж от 2000 г. до днес (над 25 години) / *Continuous tenure since 2000*.
+* **Контакти и Академични Портали / Academic Profiles:**
+  * 🆔 **ORCID iD:** [0000-0002-0607-2262](https://orcid.org/0000-0002-0607-2262)
+  * 🌐 **Личен уебсайт / Personal Site:** [www.daskalo.com/adem1970](https://www.daskalo.com/adem1970)
+  * 🎓 **Google Scholar Profile:** [Google Scholar – adem zeinev](https://scholar.google.com/scholar?hl=bg&as_sdt=0%2C5&q=adem+zeinev&btnG=)
+  * 🏫 **Електронно портфолио / E-Portfolio:** [portfolio.e-learning-suablanica.com](https://portfolio.e-learning-suablanica.com)
+  * 💻 **GitHub Profile:** [github.com/azeynev](https://github.com/azeynev)
 
-        /* Секции по Наредба 15 */
-        section {
-            background: var(--bg-card);
-            border: 1px solid var(--border-color);
-            border-radius: 16px;
-            padding: 2.2rem;
-            margin-bottom: 2rem;
-            box-shadow: var(--shadow);
-        }
-        .sec-header {
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            flex-wrap: wrap;
-            gap: 10px;
-            border-bottom: 2px solid var(--border-color);
-            padding-bottom: 0.8rem;
-            margin-bottom: 1.5rem;
-        }
-        .sec-header h2 {
-            margin: 0;
-            font-size: 1.4rem;
-            color: var(--text-main);
-            display: flex;
-            align-items: center;
-            gap: 10px;
-        }
-        .sec-num {
-            background: var(--primary);
-            color: white;
-            width: 30px;
-            height: 30px;
-            border-radius: 8px;
-            display: inline-flex;
-            align-items: center;
-            justify-content: center;
-            font-size: 0.95rem;
-            font-weight: 700;
-        }
-        .mon-ref {
-            font-size: 0.78rem;
-            background: var(--badge-bg);
-            color: var(--badge-text);
-            padding: 4px 10px;
-            border-radius: 6px;
-            font-weight: 600;
-        }
+---
 
-        /* Вътрешни решетки */
-        .grid-2 {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-            gap: 1.2rem;
-        }
-        .box {
-            background: var(--bg-subtle);
-            border: 1px solid var(--border-color);
-            border-left: 4px solid var(--primary);
-            border-radius: 10px;
-            padding: 1.2rem;
-        }
-        .box h3 {
-            margin: 0 0 0.5rem 0;
-            font-size: 1.05rem;
-            color: var(--primary);
-        }
+## 🎓 2. Академична Подготовка & Степени / Academic Qualifications
 
-        ul.styled-list {
-            list-style: none;
-            padding: 0;
-            margin: 0;
-        }
-        ul.styled-list li {
-            position: relative;
-            padding-left: 1.6rem;
-            margin-bottom: 0.85rem;
-        }
-        ul.styled-list li::before {
-            content: "▹";
-            position: absolute;
-            left: 0;
-            color: var(--primary);
-            font-weight: 800;
-            font-size: 1.1rem;
-        }
+- 🎓 **Образователно-научна степен „Доктор“ (PhD in Mathematics):** 
+  - **Университет / Institution:** University of Chemical Technology and Metallurgy, Sofia (UCTM) — Department of Mathematics.
+  - **Научна специалност / Field:** *"Математическо моделиране и приложение на математиката"* / *Mathematical Modeling and Applications of Mathematics*.
+  - **Дисертационен труд / Thesis Topic:** Численно моделиране, еволюционни математически уравнения, хидродинамика и симулационен анализ / *Numerical modeling, evolutionary partial differential equations, and fluid dynamics simulations*.
+  - **ORCID iD:** [0000-0002-0607-2262](https://orcid.org/0000-0002-0607-2262).
+- 🎓 **Висше Образование / Master of Science (M.Sc.):** 
+  - ЮЗУ „Неофит Рилски“ – гр. Благоевград / *South-West University "Neofit Rilski"* (Специалност: *Математика и Информатика*).
+- 📜 **Професионално-Квалификационна Степен (ПКС) / Professional Certificate:** 
+  - Придобита професионално-квалификационна степен за старши учител съгласно изискванията на МОН.
 
-        /* STEM & LaTeX демонстрационни блокове */
-        .stem-showcase {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
-            gap: 1.2rem;
-            margin-top: 1.2rem;
-        }
-        .math-panel, .code-panel {
-            background: var(--bg-subtle);
-            border: 1px solid var(--border-color);
-            border-radius: 12px;
-            padding: 1.2rem;
-        }
-        .panel-title {
-            font-size: 0.82rem;
-            text-transform: uppercase;
-            letter-spacing: 0.5px;
-            font-weight: 700;
-            color: var(--text-muted);
-            margin-bottom: 0.8rem;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-        }
-        pre {
-            margin: 0;
-            font-family: 'JetBrains Mono', monospace;
-            font-size: 0.82rem;
-            background: #0f172a;
-            color: #e2e8f0;
-            padding: 1rem;
-            border-radius: 8px;
-            overflow-x: auto;
-        }
-        .copy-btn {
-            background: var(--primary);
-            color: white;
-            border: none;
-            padding: 3px 9px;
-            border-radius: 5px;
-            font-size: 0.75rem;
-            cursor: pointer;
-        }
+---
 
-        /* Секция за доказателства (PDF / Документи) */
-        .doc-links {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 10px;
-            margin-top: 1.2rem;
-            padding-top: 1rem;
-            border-top: 1px dashed var(--border-color);
-        }
-        .doc-pill {
-            display: inline-flex;
-            align-items: center;
-            gap: 6px;
-            background: var(--bg-subtle);
-            border: 1px solid var(--border-color);
-            color: var(--text-main);
-            text-decoration: none;
-            padding: 6px 12px;
-            border-radius: 8px;
-            font-size: 0.85rem;
-            font-weight: 500;
-            transition: all 0.2s;
-        }
-        .doc-pill:hover {
-            border-color: var(--primary);
-            color: var(--primary);
-            background: var(--badge-bg);
-        }
+## 🏛️ 3. Атестационна Матрица на Компетенциите (Наредба № 15 / Ordinance 15)
 
-        footer {
-            background: var(--bg-card);
-            border-top: 1px solid var(--border-color);
-            text-align: center;
-            padding: 2.5rem 1.5rem;
-            color: var(--text-muted);
-            font-size: 0.9rem;
-        }
+| Компетентност / Competency | Приложение в Учебния Процес & Доказателства / Evidence |
+| :--- | :--- |
+| **1. Академична / Academic** | Задълбочено владение на алгебра, геометрия, компютърно програмиране, алгоритми и математическо моделиране. |
+| **2. Дидактическа / Pedagogical** | Прилагане на практико-приложни методи, сюжетни задачи, интерактивни презентации и проектно-базирано обучение (PBL). |
+| **3. Диагностична / Diagnostic** | Авторско разработване на софтуерната система **„Училищен Барометър“** за дигитален анализ на успеваемостта. |
+| **4. Организационна / Organizational** | Управление на мрежовата и софтуерна инфраструктура на училището в качеството на Ръководител ИКТ. |
+| **5. Дигитална / STEM & Digital** | 100% внедряване на облачни технологии, Google Workspace for Education, Smart Classroom и Code Studio. |
 
-        @media print {
-            .top-controls, nav, #math-canvas, .copy-btn { display: none !important; }
-            body { background: white; color: black; }
-            section { box-shadow: none; border: 1px solid #ccc; break-inside: avoid; }
-            header { background: #1e3a8a !important; -webkit-print-color-adjust: exact; }
-        }
-        @media (max-width: 640px) {
-            header h1 { font-size: 1.9rem; }
-            section { padding: 1.4rem; }
-        }
-    </style>
-</head>
-<body>
+---
 
-<!-- Контроли горе вдясно -->
-<div class="top-controls">
-    <button class="ctrl-btn" onclick="toggleLang()" id="lang-btn">EN / BG</button>
-    <button class="ctrl-btn" onclick="toggleTheme()" id="theme-btn">🌓 Тема</button>
-    <button class="ctrl-btn" onclick="window.print()">🖨️ PDF / Печат</button>
-</div>
+## 🔬 4. Научно-Изследователска Дейност & Публикации / Research & Publications
 
-<!-- Заглавна част -->
-<header>
-    <canvas id="math-canvas"></canvas>
-    <div class="hero-content">
-        <div class="mon-tag" data-bg="Наредба № 15 на МОН • Професионално портфолио" data-en="Ordinance No. 15 of MES • Professional Portfolio">
-            Наредба № 15 на МОН • Професионално портфолио
-        </div>
-        <h1 data-bg="д-р Адем Ибушев Зейнев" data-en="Adem Ibushev Zeinev, PhD">д-р Адем Ибушев Зейнев</h1>
-        <div class="hero-en">Adem ZEINEV, PhD • PhD in Mathematics</div>
-        <p class="hero-roles" data-bg="Старши учител по Математика, Информатика, ИТ и Технически предмети | СУ „Св. Паисий Хилендарски“ – с. Абланица • Катедра „Математика“, ХТМУ – София" data-en="Senior Teacher in Mathematics, Computer Science, IT & Technical Subjects | St. Paisii Hilendarski Secondary School – Ablanitsa • Department of Mathematics, UCTM – Sofia">
-            Старши учител по Математика, Информатика, ИТ и Технически предмети | СУ „Св. Паисий Хилендарски“ – с. Абланица • Катедра „Математика“, ХТМУ – София
-        </p>
-        <div class="hero-badges">
-            <span class="hero-badge">🎓 ОНС „Доктор“ по математика (ХТМУ)</span>
-            <span class="hero-badge">🏫 Старши учител</span>
-            <span class="hero-badge">∑ Математика & Моделиране</span>
-            <span class="hero-badge">💻 Информатика, ИТ & STEM</span>
-        </div>
-    </div>
-</header>
+- 📐 **Applied Mathematics:** Differential equations, numerical methods, mathematical models of engineering and physical processes.
+- ⚙️ **ANSYS Software Suite:** ANSYS Multiphysics, ANSYS Workbench, CFX (computational fluid dynamics, numerical simulations).
+- 🧮 **Computer Algebra Systems:** MAPLE (symbolic computations, visualization, numeric and algebraic modeling).
+- 🛠️ **Engineering Simulations:** 3D modeling, verification and validation of mathematical and software models.
 
-<!-- Навигация -->
-<nav>
-    <div class="nav-inner">
-        <a href="#sec1" data-bg="1. Философия и профил" data-en="1. Philosophy & Profile">1. Философия и профил</a>
-        <a href="#sec2" data-bg="2. Постигнати резултати" data-en="2. Student Achievements">2. Постигнати резултати</a>
-        <a href="#sec3" data-bg="3. Квалификация и наука" data-en="3. Research & Development">3. Квалификация и наука</a>
-        <a href="#sec4" data-bg="4. Дидактически ресурси" data-en="4. Didactic & STEM Resources">4. Дидактически ресурси</a>
-        <a href="#sec5" data-bg="5. Работа в екип" data-en="5. Teamwork & Community">5. Работа в екип</a>
-    </div>
-</nav>
+### 📚 Научни Публикации / Scientific Publications:
 
-<main>
-    <!-- Ключови показатели -->
-    <div class="stats-bar">
-        <div class="stat-card">
-            <span class="stat-num">PhD</span>
-            <span class="stat-label" data-bg="Доктор по математика (ХТМУ – София)" data-en="PhD in Mathematics (UCTM – Sofia)">Доктор по математика (ХТМУ – София)</span>
-        </div>
-        <div class="stat-card">
-            <span class="stat-num">STEM</span>
-            <span class="stat-label" data-bg="Математика, Информатика, ИТ и Техн. предмети" data-en="Mathematics, CS, IT & Engineering">Математика, Информатика, ИТ и Техн. предмети</span>
-        </div>
-        <div class="stat-card">
-            <span class="stat-num">Чл. 66–68</span>
-            <span class="stat-label" data-bg="Пълно съответствие с Наредба № 15 на МОН" data-en="Compliant with MES Ordinance No. 15">Пълно съответствие с Наредба № 15 на МОН</span>
-        </div>
-        <div class="stat-card">
-            <span class="stat-num">100%</span>
-            <span class="stat-label" data-bg="Дигитално интегриран учебен процес" data-en="Digitally Integrated Teaching">Дигитално интегриран учебен процес</span>
-        </div>
-    </div>
+1. **A. Ahmad, K. Haidar, N. Javad, A. Zeinev**, *A criterion to uniform stability for functional perturbed differential equations*, International Journal of Pure and Applied Mathematics, Volume 108, №1, (2016), 107-122.
+2. **A. Zeinev, N. Kitanov**, *Estimates for Functional Partial Differential Equations*, The Journal of Macro Trends in Technology and Innovation, Volume 2, Issue 1, (2014), 17-29.
+3. **A. Ahmad, N. Javaid, M. Rafaqat, A. Zeinev**, *On the stability of the solutions for a delay differential equations with discontinuity*, International Journal of Pure and Applied Mathematics, (2017).
+4. **A. Zeinev, V. Radeva, D. Kolev, V. Todorov, N. Kitanov**, *A class of functional differential equations with "maxima"*.
+5. **T. Donchev, D. Kolev, A. Lazi, A. Nosheen, M. Rafaqat, A. Zeinev**, *Numerical methods for delayed differential equations with discontinuities*.
+6. **V. Radeva, V. Todorov, D. Kolev, A. Zeinev, N. Kitanov**, *Integrability of Fluid Dynamics Models*, Metallurgy (UCTM), (2013).
+7. **D. Kolev, V. Todorov, A. Zeinev**, *Charged Particles Through Electromagnetic Fields*.
+8. **T. Donchev, D. Kolev, A. Lazi, A. Nosheen, M. Rafaqat, A. Zeinev**, *Caratheodory Differential Equations On Cones*.
+9. **R. Ivanov, A. Zeinev**, *Elementary Proof of the John’s Theorem for Nonsmooth Functions*.
+10. **L. Peychev, K. Panovska, A. Tatsis, A. Zeinev**, *Understanding educational quality in informatics in secondary school*.
+11. **S. Bilal, T. Donchev, A. Raza, A. Zeinev, N. Kitanov**, *Reachable Set for Functional Differential Inclusions*.
 
-    <!-- РАЗДЕЛ 1 -->
-    <section id="sec1">
-        <div class="sec-header">
-            <h2><span class="sec-num">1</span> <span data-bg="Общи данни и педагогическа философия" data-en="General Profile & Pedagogical Philosophy">Общи данни и педагогическа философия</span></h2>
-            <span class="mon-ref">Наредба № 15 • Раздел I</span>
-        </div>
-        <div class="grid-2">
-            <div class="box">
-                <h3 data-bg="Академична и професионална визитка" data-en="Academic & Professional Profile">Академична и професионална визитка</h3>
-                <p><strong>Научна степен:</strong> Доктор по математика (Катедра „Математика“, Химикотехнологичен и металургичен университет – София).</p>
-                <p><strong>Месторабота:</strong> СУ „Св. Паисий Хилендарски“ – с. Абланица, общ. Хаджидимово (Старши учител).</p>
-                <p><strong>Преподавани дисциплини:</strong> Математика, Информатика, Информационни технологии, Технически предмети.</p>
-            </div>
-            <div class="box">
-                <h3 data-bg="Педагогическа философия" data-en="Teaching Philosophy">Педагогическа философия</h3>
-                <p>Обучението по математика и информатика е фундаментът на съвременното инженерно и аналитично мислене. Моята цел е да превръщам абстрактните теореми и алгоритми в разбираеми, визуални и приложими модели, чрез които учениците развиват увереност, изследователски дух и дигитална култура.</p>
-            </div>
-        </div>
-    </section>
+### 🎤 Доклади и Участия в Конференции / Conference Presentations:
 
-    <!-- РАЗДЕЛ 2 -->
-    <section id="sec2">
-        <div class="sec-header">
-            <h2><span class="sec-num">2</span> <span data-bg="Постигнати резултати в обучението" data-en="Student Achievements & Learning Outcomes">Постигнати резултати в обучението</span></h2>
-            <span class="mon-ref">Наредба № 15 • Раздел II</span>
-        </div>
-        <ul class="styled-list">
-            <li><strong>Държавни зрелостни изпити (ДЗИ) и НВО:</strong> Целенасочена подготовка на зрелостници и ученици в прогимназиален и гимназиален етап по математика и информатика с устойчив напредък спрямо входните нива.</li>
-            <li><strong>Олимпиади, състезания и турнири:</strong> Откриване и подготовка на изявени ученици за Националната олимпиада по математика, олимпиадата по информатика, състезания по ИТ и математически състезания („Европейско кенгуру“, „Иван Салабашев“ и др.).</li>
-            <li><strong>Ученически STEM и приложни разработки:</strong> Менторство на ученици при създаване на софтуерни приложения, уеб проекти, математически модели и технически макети.</li>
-        </ul>
-        <div class="doc-links">
-            <a href="#sec2" class="doc-pill">📄 Анализ на резултатите от входно/изходно ниво</a>
-            <a href="#sec2" class="doc-pill">🏆 Грамоти и класирания на ученици</a>
-        </div>
-    </section>
+1. **Presentation:** *Scientific Conference with International Participation on the occasion of 60 years UCTM (Sofia)*.
+2. **Presentation:** *International Conference on Business and Social Science Research / The Macro Journals Conference on Medicine, Science, and Technology* – Dubrovnik.
+3. **Presentation:** *International Conference "New Trends in the Applications of Differential Equations in Sciences"*, Bulgarian Academy of Sciences (BAS), Sofia.
+4. **Poster Session:** *Poster Session (May 2012)* – Topic: *"Charged particles through electromagnetic fields"*, authors: Dimitar Kolev, Valeri Todorov, Adem Zeinev.
+5. **Poster Session:** *UCTM Poster Session (May 2013)* – Topics: *"Parabolic partial differential equations with maxima"* and *"Geometry of simple states to a model of gas-dynamics"*.
+6. **Presentation:** *7th International Academic Macro Thematic Conference (Dubrovnik 2018)* – Topic: *"On the solution set of evolution inclusions"*.
+7. **Presentation:** *7th International Academic Macro Thematic Conference (Dubrovnik 2018)* – Topic: *"Some Scheme for Averaging of Impulsive Optimal Control Problems"*.
 
-    <!-- РАЗДЕЛ 3 -->
-    <section id="sec3">
-        <div class="sec-header">
-            <h2><span class="sec-num">3</span> <span data-bg="Самооценка, квалификация и научна дейност" data-en="Self-Assessment, Qualification & Scientific Work">Самооценка, квалификация и научна дейност</span></h2>
-            <span class="mon-ref">Наредба № 15 • Раздел III</span>
-        </div>
-        <ul class="styled-list">
-            <li><strong>Научноизследователска дейност:</strong> Защитена докторска дисертация в областта на математиката (ХТМУ – София); автор и съавтор на научни публикации в реферирани издания и доклади на международни и национални научни форуми.</li>
-            <li><strong>Продължаваща квалификация:</strong> Успешно преминати квалификационни курсове и обучения в областта на дигиталните технологии, програмирането, STEM обучението, киберсигурността и съвременната педагогика.</li>
-            <li><strong>Самооценка и кариерно развитие:</strong> Системно надграждане на професионалните компетентности в съответствие с професионалния профил на длъжността „Старши учител“.</li>
-        </ul>
-        <div class="doc-links">
-            <a href="#sec3" class="doc-pill">🎓 Диплома за ОНС „Доктор“ (ХТМУ)</a>
-            <a href="#sec3" class="doc-pill">📚 Списък с научни публикации</a>
-            <a href="#sec3" class="doc-pill">📜 Сертификати за квалификация (Кредити)</a>
-        </div>
-    </section>
+<p align="left">
+  <a href="https://orcid.org/0000-0002-0607-2262"><img src="https://img.shields.io/badge/ORCID-0000--0002--0607--2262-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID iD" /></a>
+  <a href="https://scholar.google.com/scholar?hl=bg&as_sdt=0%2C5&q=adem+zeinev&btnG="><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar Profile" /></a>
+  <a href="https://uctm.edu"><img src="https://img.shields.io/badge/UCTM_Sofia-Department_of_Mathematics-003366?style=for-the-badge&logo=academic-pages&logoColor=white" alt="UCTM Research Profile" /></a>
+</p>
 
-    <!-- РАЗДЕЛ 4 -->
-    <section id="sec4">
-        <div class="sec-header">
-            <h2><span class="sec-num">4</span> <span data-bg="Дидактически, авторски и STEM материали" data-en="Didactic, Authored & STEM Materials">Дидактически, авторски и STEM материали</span></h2>
-            <span class="mon-ref">Наредба № 15 • Раздел IV</span>
-        </div>
-        <ul class="styled-list">
-            <li><strong>Авторски учебни програми (ИУЧ / ФУЧ):</strong> Разработени програми за разширена и профилирана подготовка по математика, програмиране, информационни технологии и техническо чертане/моделиране.</li>
-            <li><strong>Дигитални и интерактивни ресурси:</strong> Създаване на тестове, работни листове, визуализации на функции и геометрични тела (GeoGebra), както и алгоритмични задачи с автоматизирана проверка.</li>
-        </ul>
+---
 
-        <!-- Интерактивна STEM демонстрация -->
-        <div class="stem-showcase">
-            <div class="math-panel">
-                <div class="panel-title">
-                    <span>Математически анализ (LaTeX)</span>
-                </div>
-                <p style="font-size: 0.9rem; margin-top: 0;">Пример за дидактическа визуализация на интегрални и редови тъждества:</p>
-                $$\int_{-\infty}^{\infty} e^{-x^2}\,dx = \sqrt{\pi}, \quad \sum_{n=1}^{\infty} \frac{1}{n^2} = \frac{\pi^2}{6}$$
-                $$f'(x) = \lim_{h \to 0} \frac{f(x+h) - f(x)}{h}$$
-            </div>
-            <div class="code-panel">
-                <div class="panel-title">
-                    <span>Алгоритмично моделиране (Python)</span>
-                    <button class="copy-btn" onclick="copyCode()">Копирай</button>
-                </div>
-<pre id="py-code">import math
+## 📚 5. Преподавателска Заетост / Teaching Curriculum
 
-def monte_carlo_pi(n: int) -> float:
-    """Числена оценка на числото Пи."""
-    inside = sum(
-        1 for i in range(n)
-        if ((i * 0.6180339) % 1)**2 + ((i * 0.381966) % 1)**2 <= 1
-    )
-    return 4 * inside / n
+### 📐 Математика / Mathematics (Grades 5 – 12)
+* **V – VII Grade:** Algebra, geometry, logical thinking, preparing students for National External Assessment (НВО 7. клас).
+* **VIII – X Grade:** Functions, equations, inequalities, stereometry, trigonometry.
+* **XI – XII Grade:** Advanced Mathematics, calculus, probability & statistics, State Matriculation Exams (ДЗИ 12. клас).
 
-print(f"Приближение: {monte_carlo_pi(10000):.5f}")</pre>
-            </div>
-        </div>
+### 💻 Информатика / Computer Science (Grades 9 – 12)
+* Fundamentals of computer science and algorithmic thinking.
+* Data types, control structures, arrays, search/sort algorithms.
+* Object-Oriented Programming (OOP).
 
-        <div class="doc-links">
-            <a href="#sec4" class="doc-pill">📐 Учебни програми ИУЧ/ФУЧ</a>
-            <a href="#sec4" class="doc-pill">🧪 Методически разработки на STEM уроци</a>
-            <a href="#sec4" class="doc-pill">📝 Банка с авторски задачи и тестове</a>
-        </div>
-    </section>
+### 🖥️ Информационни технологии / Information Technology (Grades 5 – 12)
+* **V – VIII Grade:** Computer systems, word processing, spreadsheets, presentations, cybersecurity.
+* **IX – XII Grade:** Databases, computer networks, graphic design, web development.
 
-    <!-- РАЗДЕЛ 5 -->
-    <section id="sec5">
-        <div class="sec-header">
-            <h2><span class="sec-num">5</span> <span data-bg="Работа в екип и училищната общност" data-en="Teamwork & School Community">Работа в екип и училищната общност</span></h2>
-            <span class="mon-ref">Наредба № 15 • Раздел V</span>
-        </div>
-        <ul class="styled-list">
-            <li><strong>Методическа и институционална дейност:</strong> Активно участие в методическото обединение по математика, информатика и природни науки, училищни комисии и екипи за ключови компетентности в СУ „Св. Паисий Хилендарски“.</li>
-            <li><strong>Национални и международни проекти:</strong> Работа по национални програми на МОН (изграждане на STEM среда, „Заедно в изкуствата и спорта“, „Иновации в действие“) и европейски образователни инициативи.</li>
-            <li><strong>Партньорство с родители и академичната общност:</strong> Поддържане на активна комуникация с родителите и връзка с висши училища (ХТМУ – София) за ранно кариерно ориентиране на учениците.</li>
-        </ul>
-    </section>
-</main>
+---
 
-<footer>
-    <strong>© 2026 д-р Адем Ибушев Зейнев (Adem Zeinev, PhD)</strong><br>
-    Старши учител по Математика, Информатика и ИТ • СУ „Св. Паисий Хилендарски“ – с. Абланица<br>
-    <span style="font-size: 0.8rem;">Портфолиото е структурирано съгласно изискванията на Наредба № 15 на МОН.</span>
-</footer>
+## 🌐 6. Дигитална Лаборатория / e-Learning & Digital Tools
 
-<script>
-    // Превключване на тъмна/светла тема
-    function toggleTheme() {
-        const html = document.documentElement;
-        const current = html.getAttribute('data-theme');
-        html.setAttribute('data-theme', current === 'light' ? 'dark' : 'light');
-    }
+| Платформа / Tool | Предназначение / Description | Статус / Links |
+| :--- | :--- | :---: |
+| 🧠 **Smart Classroom & Edmodo** | Interactive learning environment & quizzes | [🔗 View](https://www.daskalo.com/adem1970) |
+| 🧩 **Code Studio** | Computer programming and coding lessons | [🔗 View](https://studio.code.org) |
+| 📐 **GeoGebra & Desmos** | Interactive mathematical visualization | [🔗 View](https://www.geogebra.org) |
+| 📝 **Digital Workbooks** | Interactive quizzes & online crosswords | [🔗 View](https://www.daskalo.com/adem1970) |
 
-    // Превключване BG / EN
-    let currentLang = 'bg';
-    function toggleLang() {
-        currentLang = currentLang === 'bg' ? 'en' : 'bg';
-        document.querySelectorAll('[data-bg]').forEach(el => {
-            el.textContent = el.getAttribute('data-' + currentLang);
-        });
-    }
+---
 
-    // Копиране на Python кода
-    function copyCode() {
-        const code = document.getElementById('py-code').innerText;
-        navigator.clipboard.writeText(code);
-        const btn = document.querySelector('.copy-btn');
-        btn.textContent = 'Готово!';
-        setTimeout(() => btn.textContent = 'Копирай', 1500);
-    }
+## 🏆 7. Авторски Софтуер / Custom Educational Software
 
-    // Интерактивна математическа мрежа на заден план
-    const canvas = document.getElementById('math-canvas');
-    const ctx = canvas.getContext('2d');
-    let particles = [];
+#### 📊 [School Barometer (Professional Edition)](https://azeynev.netlify.app)
+> Web application for quantitative analysis of school academic results, calculating integral indicators, and automated exports to DOCX/JSON.
+* **Tech Stack:** Vanilla JavaScript (ES6+), HTML5, CSS3, LocalStorage API, Word Exporter.
 
-    function resizeCanvas() {
-        canvas.width = canvas.offsetWidth;
-        canvas.height = canvas.offsetHeight;
-    }
-    window.addEventListener('resize', resizeCanvas);
-    resizeCanvas();
+#### 📝 [Teacher Form Module (Google Forms Integration)](https://github.com/azeynev)
+> Responsive web wrapper featuring Focus Mode, progress tracking, and Dark Mode for embedded Google Forms.
+* **Tech Stack:** Tailwind CSS, Responsive Iframes, FontAwesome Icons.
 
-    for (let i = 0; i < 45; i++) {
-        particles.push({
-            x: Math.random() * canvas.width,
-            y: Math.random() * canvas.height,
-            vx: (Math.random() - 0.5) * 0.6,
-            vy: (Math.random() - 0.5) * 0.6
-        });
-    }
+---
 
-    function animate() {
-        ctx.clearRect(0, 0, canvas.width, canvas.height);
-        ctx.fillStyle = '#93c5fd';
-        ctx.strokeStyle = 'rgba(147, 197, 253, 0.25)';
+## 📜 8. Сертификати и Квалификации / Certificates Gallery
 
-        for (let i = 0; i < particles.length; i++) {
-            let p = particles[i];
-            p.x += p.vx;
-            p.y += p.vy;
-            if (p.x < 0 || p.x > canvas.width) p.vx *= -1;
-            if (p.y < 0 || p.y > canvas.height) p.vy *= -1;
+### 🖼️ Дигитална Галерия / Digital Gallery:
 
-            ctx.beginPath();
-            ctx.arc(p.x, p.y, 2, 0, Math.PI * 2);
-            ctx.fill();
+<p align="center">
+  <img src="https://github.com/azeynev/azeynev/raw/main/cert1.png" width="45%" alt="Сертификат 1" />
+  <img src="https://github.com/azeynev/azeynev/raw/main/cert2.png" width="45%" alt="Сертификат 2" />
+</p>
 
-            for (let j = i + 1; j < particles.length; j++) {
-                let p2 = particles[j];
-                let dist = Math.hypot(p.x - p2.x, p.y - p2.y);
-                if (dist < 120) {
-                    ctx.beginPath();
-                    ctx.moveTo(p.x, p.y);
-                    ctx.lineTo(p2.x, p2.y);
-                    ctx.stroke();
-                }
-            }
-        }
-        requestAnimationFrame(animate);
-    }
-    animate();
-</script>
+### 📋 Описание и Архив / Digital Archive:
 
-</body>
-</html>
+| Сертификат / Certificate | Организация / Institution | Преглед / View | 
+| :--- | :--- | :---: | 
+| **Иновативни методи и ИКТ в обучението** | МОН / РУО / Академия | [<img src="https://github.com/azeynev/azeynev/raw/main/cert1.png" width="100">](https://github.com/azeynev/azeynev/raw/main/cert1.png) | 
+| **Математическо моделиране & MAPLE** | Scientific Conference / UCTM | [<img src="https://github.com/azeynev/azeynev/raw/main/cert2.png" width="100">](https://github.com/azeynev/azeynev/raw/main/cert2.png) | 
+
+*(💡 Качете вашите сертификати в репозиторието `azeynev/azeynev` под имената `cert1.png` и `cert2.png`).*
+
+---
+
+## 🏛️ 9. Институционална Дейност / Institutional Roles
+
+* 📋 **Ръководител направление ИКТ / Head of ICT:** Поддръжка на компютърните кабинети, мрежова инфраструктура и електронни дневници / *Maintenance of IT infrastructure and e-registers*.
+* 📝 **Олимпиади и състезания / Olympiads:** Председател и организатор на училищните кръгове по Математика, Информатика и ИТ.
+* 🤝 **Работни групи / Committees:** Участие в изготвянето на Училищния план за квалификация и иновативни методики.
+
+---
+
+## 📊 10. Анализ на Резултатите / Results & Performance Analysis
+
+* 📈 Висок процент успеваемост на учениците при явяване на Национално външно оценяване (НВО) по Математика в 7. клас.
+* 🎓 Отлични резултати на учениците в гимназиален етап на ДЗИ и състезания по ИТ и информатика.
+* 📑 100% дигитализирано отчитане на резултатите чрез системата „Училищен Барометър“.
+
+---
+
+## 🛠️ 11. Технологичен Стек & Инструменти / Tech Stack
+
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com)
+
+---
+
+## 🔗 12. Интерактивни Връзки / Quick Access
+
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--0607--2262-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-0607-2262)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/scholar?hl=bg&as_sdt=0%2C5&q=adem+zeinev&btnG=)
+[![UCTM Research Profile](https://img.shields.io/badge/UCTM_Sofia-Department_of_Mathematics-003366?style=for-the-badge&logo=academic-pages&logoColor=white)](https://uctm.edu)
+[![Училищен Барометър](https://img.shields.io/badge/Училищен_Барометър-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://azeynev.netlify.app)
+[![Личен Уебсайт](https://img.shields.io/badge/Daskalo.com-059669?style=for-the-badge&logo=book&logoColor=white)](https://www.daskalo.com/adem1970)
+
+---
+
+## 📫 13. Официални Контакти / Official Contacts
+
+* 🆔 **ORCID iD:** [0000-0002-0607-2262](https://orcid.org/0000-0002-0607-2262)
+* 🏛️ **Research Affiliation:** Department of Mathematics, University of Chemical Technology and Metallurgy, Sofia (UCTM)
+* 🌐 **Personal Website:** [www.daskalo.com/adem1970](https://www.daskalo.com/adem1970)
+* 🎓 **Google Scholar:** [adem zeinev Search Results](https://scholar.google.com/scholar?hl=bg&as_sdt=0%2C5&q=adem+zeinev&btnG=)
+* 🏫 **E-Portfolio:** [portfolio.e-learning-suablanica.com](https://portfolio.e-learning-suablanica.com)
+* 📍 **Address:** St. Paisii Hilendarski Secondary School, 1 Hristo Botev Str., Ablanitsa (2932), Hadzhidimovo Municipality, Bulgaria
+* 💻 **GitHub Profile:** [github.com/azeynev](https://github.com/azeynev)

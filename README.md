@@ -201,8 +201,6 @@
 | **Иновативни методи и ИКТ в обучението** | МОН / РУО / Академия | [<img src="https://github.com/azeynev/azeynev/raw/main/cert1.png" width="100">](https://github.com/azeynev/azeynev/raw/main/cert1.png) | 
 | **Математическо моделиране & MAPLE** | Scientific Conference / UCTM | [<img src="https://github.com/azeynev/azeynev/raw/main/cert2.png" width="100">](https://github.com/azeynev/azeynev/raw/main/cert2.png) | 
 
-*(💡 Качете вашите сертификати в репозиторието `azeynev/azeynev` под имената `cert1.png` и `cert2.png`).*
-
 ---
 
 ## 🏛️ 9. Институционална Дейност / Institutional Roles
@@ -221,16 +219,12 @@
 
 ---
 
-## 🛠️ 11. Технологичен Стек & Инструменти / Tech Stack
+## 📊 11. Анализ на резултатите / Results & Performance Analysis
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com)
-
+- 📈 Анализ и проследяване на резултатите на учениците при НВО по математика в VII клас.
+- 🎓 Проследяване на постиженията в гимназиалния етап и участието в състезания по ИТ и информатика.
+- 📑 Дигитализиране на процесите по отчитане и анализ чрез авторската система „Училищен Барометър“.
+- 📊 Разработване на интегрални показатели за оценка на образователните резултати.
 ---
 
 ## 🔗 12. Интерактивни Връзки / Quick Access
@@ -239,7 +233,7 @@
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/scholar?hl=bg&as_sdt=0%2C5&q=adem+zeinev&btnG=)
 [![UCTM Research Profile](https://img.shields.io/badge/UCTM_Sofia-Department_of_Mathematics-003366?style=for-the-badge&logo=academic-pages&logoColor=white)](https://uctm.edu)
 [![Училищен Барометър](https://img.shields.io/badge/Училищен_Барометър-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://azeynev.netlify.app)
-[![Личен Уебсайт](https://img.shields.io/badge/Daskalo.com-059669?style=for-the-badge&logo=book&logoColor=white)](https://www.daskalo.com/adem1970)
+[![Personal Website](https://img.shields.io/badge/Personal_Website-059669?style=for-the-badge&logo=googlechrome&logoColor=white)](https://azeynev.github.io/)
 
 ---
 

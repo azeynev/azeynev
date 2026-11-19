@@ -103,7 +103,7 @@
 <p align="left">
   <a href="https://orcid.org/0000-0002-0607-2262"><img src="https://img.shields.io/badge/ORCID-0000--0002--0607--2262-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID iD" /></a>
   <a href="https://scholar.google.com/scholar?hl=bg&as_sdt=0%2C5&q=adem+zeinev&btnG="><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar Profile" /></a>
-  <a href="https://uctm.edu"><img src="https://img.shields.io/badge/UCTM_Sofia-Department_of_Mathematics-003366?style=for-the-badge&logo=academic-pages&logoColor=white" alt="UCTM Research Profile" /></a>
+  <a href="https://uctm.edu"><img src="https://img.shields.io/badge/UCTM_Sofia-Department_of_Mathematics-003366?style=for-the-badge&logo=academic-pages&logoColor=white" alt="UCTM Sofia" /></a>
 </p>
 
 ---
@@ -221,7 +221,7 @@
 
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--0607--2262-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-0607-2262)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/scholar?hl=bg&as_sdt=0%2C5&q=adem+zeinev&btnG=)
-[![UCTM Research Profile](https://img.shields.io/badge/UCTM_Sofia-Department_of_Mathematics-003366?style=for-the-badge&logo=academic-pages&logoColor=white)](https://uctm.edu)
+[![Sofia](https://img.shields.io/badge/UCTM_Sofia-Department_of_Mathematics-003366?style=for-the-badge&logo=academic-pages&logoColor=white)](https://uctm.edu)
 [![Училищен Барометър](https://img.shields.io/badge/Училищен_Барометър-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://azeynev.netlify.app)
 [![Personal Website](https://img.shields.io/badge/Personal_Website-059669?style=for-the-badge&logo=googlechrome&logoColor=white)](https://azeynev.github.io/)
 

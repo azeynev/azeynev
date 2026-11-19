@@ -150,9 +150,8 @@
 * **Tech Stack:** Tailwind CSS, Responsive Iframes, FontAwesome Icons.
 
 ---
----
 
-## 🤖 7.1. AI, STEM & DIGITAL EDUCATION
+## 🤖 8. AI, STEM & DIGITAL EDUCATION
 
 ### Artificial Intelligence in Education
 
@@ -185,7 +184,7 @@
 
 ---
 
-## 📜 8. Сертификати и Квалификации / Certificates Gallery
+## 📜 9. Сертификати и Квалификации / Certificates Gallery
 
 ### 🖼️ Дигитална Галерия / Digital Gallery:
 
@@ -203,7 +202,7 @@
 
 ---
 
-## 🏛️ 9. Институционална Дейност / Institutional Roles
+## 🏛️ 10. Институционална Дейност / Institutional Roles
 
 * 📋 **Ръководител направление ИКТ / Head of ICT:** Поддръжка на компютърните кабинети, мрежова инфраструктура и електронни дневници / *Maintenance of IT infrastructure and e-registers*.
 * 📝 **Олимпиади и състезания / Olympiads:** Председател и организатор на училищните кръгове по Математика, Информатика и ИТ.
@@ -211,7 +210,7 @@
 
 ---
 
-## 📊 10. Анализ на Резултатите / Results & Performance Analysis
+## 📊 11. Анализ на Резултатите / Results & Performance Analysis
 
 * 📈 Висок процент успеваемост на учениците при явяване на Национално външно оценяване (НВО) по Математика в 7. клас.
 * 🎓 Отлични резултати на учениците в гимназиален етап на ДЗИ и състезания по ИТ и информатика.
@@ -219,7 +218,7 @@
 
 ---
 
-## 📊 11. Анализ на резултатите / Results & Performance Analysis
+## 📊 12. Анализ на резултатите / Results & Performance Analysis
 
 - 📈 Анализ и проследяване на резултатите на учениците при НВО по математика в VII клас.
 - 🎓 Проследяване на постиженията в гимназиалния етап и участието в състезания по ИТ и информатика.
@@ -227,7 +226,7 @@
 - 📊 Разработване на интегрални показатели за оценка на образователните резултати.
 ---
 
-## 🔗 12. Интерактивни Връзки / Quick Access
+## 🔗 13. Интерактивни Връзки / Quick Access
 
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--0607--2262-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-0607-2262)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/scholar?hl=bg&as_sdt=0%2C5&q=adem+zeinev&btnG=)
@@ -237,7 +236,7 @@
 
 ---
 
-## 📫 13. Официални контакти и академични профили / Official Contacts
+## 📫 14. Официални контакти и академични профили / Official Contacts
 
 - 🆔 **ORCID iD:** [0000-0002-0607-2262](https://orcid.org/0000-0002-0607-2262)
 - 🎓 **Google Scholar:** [Adem Zeinev](https://scholar.google.com/scholar?hl=bg&as_sdt=0%2C5&q=adem+zeinev)

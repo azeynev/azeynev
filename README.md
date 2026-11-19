@@ -140,7 +140,7 @@
 ---
 ---
 
-## 🤖 8. AI, STEM & DIGITAL EDUCATION
+## 🤖 7.1. AI, STEM & DIGITAL EDUCATION
 
 ### Artificial Intelligence in Education
 

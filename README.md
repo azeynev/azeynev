@@ -144,7 +144,7 @@
 > Web application for quantitative analysis of school academic results, calculating integral indicators, and automated exports to DOCX/JSON.
 * **Tech Stack:** Vanilla JavaScript (ES6+), HTML5, CSS3, LocalStorage API, Word Exporter.
 
-#### 📝 [Teacher Form Module (Google Forms Integration)](https://github.com/azeynev)
+#### 📝 [Teacher Form Module (Google Forms Integration)](https://azeynev.github.io/materials/index.html))
 > Responsive web wrapper featuring Focus Mode, progress tracking, and Dark Mode for embedded Google Forms.
 * **Tech Stack:** Tailwind CSS, Responsive Iframes, FontAwesome Icons.
 

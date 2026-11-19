@@ -236,7 +236,7 @@
 
 * 🆔 **ORCID iD:** [0000-0002-0607-2262](https://orcid.org/0000-0002-0607-2262)
 * 🏛️ **Research Affiliation:** Department of Mathematics, University of Chemical Technology and Metallurgy, Sofia (UCTM)
-* 🌐 **Personal Website:** [www.daskalo.com/adem1970](https://www.daskalo.com/adem1970)
+* 🌐 **Personal Website:** (https://azeynev.github.io/)](https://azeynev.github.io/))
 * 🎓 **Google Scholar:** [adem zeinev Search Results](https://scholar.google.com/scholar?hl=bg&as_sdt=0%2C5&q=adem+zeinev&btnG=)
 * 🏫 **E-Portfolio:** [portfolio.e-learning-suablanica.com](https://portfolio.e-learning-suablanica.com)
 * 📍 **Address:** St. Paisii Hilendarski Secondary School, 1 Hristo Botev Str., Ablanitsa (2932), Hadzhidimovo Municipality, Bulgaria

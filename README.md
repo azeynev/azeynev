@@ -233,7 +233,7 @@
 - 🆔 **ORCID iD:** [0000-0002-0607-2262](https://orcid.org/0000-0002-0607-2262)
 - 🎓 **Google Scholar:** [Adem Zeinev](https://scholar.google.com/scholar?hl=bg&as_sdt=0%2C5&q=adem+zeinev)
 - 🌐 **Personal Website:** [Adem Zeynev – Professional Website](https://azeynev.github.io/)
-- 🏫 **E-Portfolio:** [Electronic Portfolio](https://portfolio.e-learning-suablanica.com)
+- 🏫 **E-Portfolio:** [Електронно портфолио](https://azeynev.github.io/)
 - 💻 **GitHub:** [github.com/azeynev](https://github.com/azeynev)
 - 🏛️ **Професионална институция:** СУ „Св. Паисий Хилендарски“, с. Абланица, общ. Хаджидимово
 

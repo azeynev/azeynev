@@ -104,7 +104,9 @@
 
 <p align="left">
   <a href="https://orcid.org/0000-0002-0607-2262"><img src="https://img.shields.io/badge/ORCID-0000--0002--0607--2262-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID iD" /></a>
-  <a href="https://scholar.google.com/scholar?hl=bg&as_sdt=0%2C5&q=adem+zeinev&btnG="><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar Profile" /></a>
+  <a href="https://scholar.google.com/citations?user=dJZP6-IAAAAJ&hl=bg">
+  <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar Profile" />
+</a>
   <a href="https://uctm.edu"><img src="https://img.shields.io/badge/UCTM_Sofia-Department_of_Mathematics-003366?style=for-the-badge&logo=academic-pages&logoColor=white" alt="UCTM Sofia" /></a>
 </p>
 

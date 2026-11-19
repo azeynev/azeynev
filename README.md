@@ -53,8 +53,10 @@
   - **ORCID iD:** [0000-0002-0607-2262](https://orcid.org/0000-0002-0607-2262).
 - 🎓 **Висше Образование / Master of Science (M.Sc.):** 
   - ЮЗУ „Неофит Рилски“ – гр. Благоевград / *South-West University "Neofit Rilski"* (Специалност: *Математика и Информатика*).
-- 📜 **Професионално-Квалификационна Степен (ПКС) / Professional Certificate:** 
-  - Придобита професионално-квалификационна степен за старши учител съгласно изискванията на МОН.
+- 📜 **Професионално-квалификационни степени (ПКС):**
+  - Придобити професионално-квалификационни степени от V до I ПКС.
+  - Професионална квалификация „учител“.
+  - Заемана длъжност: „старши учител“.
 
 ---
 
@@ -133,7 +135,7 @@
 | 🧩 **Code Studio** | Програмиране и алгоритмично мислене | [Code.org](https://studio.code.org/) |
 | 📐 **GeoGebra** | Интерактивна математическа визуализация | [GeoGebra](https://www.geogebra.org/) |
 | 📊 **Desmos** | Графики и математическо моделиране | [Desmos](https://www.desmos.com/) |
-| 📝 **Дигитални учебни ресурси** | Интерактивни упражнения и учебни материали | [Електронно портфолио](https://portfolio.e-learning-suablanica.com) |
+| 📝 **Дигитални учебни ресурси** | Интерактивни упражнения и учебни материали | [Електронно портфолио](https://azeynev.github.io/) |
 | 💻 **Авторски разработки** | Образователни приложения и симулатори | [GitHub](https://github.com/azeynev) |
 
 ---
@@ -144,7 +146,7 @@
 > Web application for quantitative analysis of school academic results, calculating integral indicators, and automated exports to DOCX/JSON.
 * **Tech Stack:** Vanilla JavaScript (ES6+), HTML5, CSS3, LocalStorage API, Word Exporter.
 
-#### 📝 [Teacher Form Module (Google Forms Integration)](https://azeynev.github.io/materials/index.html))
+#### 📝 [Teacher Form Module (Google Forms Integration)](https://azeynev.github.io/materials/index.html)
 > Responsive web wrapper featuring Focus Mode, progress tracking, and Dark Mode for embedded Google Forms.
 * **Tech Stack:** Tailwind CSS, Responsive Iframes, FontAwesome Icons.
 

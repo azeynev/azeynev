@@ -127,14 +127,15 @@
 
 ---
 
-## 🌐 6. Дигитална Лаборатория / e-Learning & Digital Tools
+## 🌐 6. Дигитална лаборатория / e-Learning & Digital Tools
 
-| Платформа / Tool | Предназначение / Description | Статус / Links |
+| Платформа / Tool | Предназначение / Description | Връзка |
 | :--- | :--- | :---: |
-| 🧠 **Smart Classroom & Edmodo** | Interactive learning environment & quizzes | [🔗 View](https://www.daskalo.com/adem1970) |
-| 🧩 **Code Studio** | Computer programming and coding lessons | [🔗 View](https://studio.code.org) |
-| 📐 **GeoGebra & Desmos** | Interactive mathematical visualization | [🔗 View](https://www.geogebra.org) |
-| 📝 **Digital Workbooks** | Interactive quizzes & online crosswords | [🔗 View](https://www.daskalo.com/adem1970) |
+| 🧠 **Smart Classroom** | Интерактивна образователна среда | [Личен сайт](https://azeynev.github.io/) |
+| 🧩 **Code Studio** | Програмиране и алгоритмично мислене | [Code.org](https://studio.code.org/) |
+| 📐 **GeoGebra** | Интерактивна математическа визуализация | [GeoGebra](https://www.geogebra.org/) |
+| 📊 **Desmos** | Графики и математическо моделиране | [Desmos](https://www.desmos.com/) |
+| 📝 **Дигитални учебни ресурси** | Интерактивни упражнения и учебни материали | [Електронно портфолио](https://portfolio.e-learning-suablanica.com) |
 
 ---
 

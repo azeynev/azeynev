@@ -1,36 +1,46 @@
 # 🎓 ПРОФЕСИОНАЛНО ПОРТФОЛИО
+
 # д-р Адем Ибушев Зейнев / Adem ZEINEV, PhD
 
-> **Adem ZEINEV | PhD | PhD in Mathematics | Department of Mathematics | University of Chemical Technology and Metallurgy, Sofia (UCTM)**  
-> **Старши учител по Математика, Информатика и ИТ | СУ „Св. Паисий Хилендарски“ – с. Абланица (общ. Хаджидимово)**  
-> *Senior Teacher in Mathematics, Computer Science & IT | St. Paisii Hilendarski Secondary School*  
-> *Разработено съгласно изискванията на Наредба № 15 на МОН за статута и професионалното развитие на педагогическите специалисти*
+> **Adem ZEINEV | PhD in Mathematics**
+>
+> **Doctoral Institution:** University of Chemical Technology and Metallurgy, Sofia (UCTM)
+>
+> **Старши учител по математика, информатика и информационни технологии**
+>
+> СУ „Св. Паисий Хилендарски“ – с. Абланица, община Хаджидимово
+>
+> *Senior Teacher in Mathematics, Computer Science & IT*
+>
+> *Професионално портфолио, представящо педагогическата, научноизследователската и дигиталната дейност.*
 
 ---
 
 ### 📊 ИНТЕГРАЛЕН ПЕДАГОГИЧЕСКИ И НАУЧЕН ИНДЕКС / INTEGRATED INDEX
 
-| 🏆 Педагогически Стаж / Experience | 🎓 Научна Степен / Academic Degree | 🏛️ Университет & Катедра / University | 🔬 Публикации & Доклади / Publications | 💻 Дигитализация / ICT |
-| :---: | :---: | :---: | :---: | :---: |
-| **25+ Години** *(от 2000 г.)* | **PhD in Mathematics** | **UCTM Sofia · Dept. of Mathematics** | **11 Публикации · 7 Доклада** | **100% Облачна Интеграция** |
+| 🏆 Педагогически стаж |    🎓 Научна степен    | 🏛️ Университет |    🔬 Публикации и доклади    |           💻 Дигитализация          |
+| :-------------------: | :--------------------: | :-------------: | :---------------------------: | :---------------------------------: |
+|     **25+ години**    | **PhD in Mathematics** |  **UCTM Sofia** | **11 публикации · 7 доклада** | **Образователни дигитални решения** |
 
----F
+---
 
-## 🏛️ 1. Обща Информация и Педагогически Статус / General Information
+## 🏛️ 1. Обща информация и педагогически статус / General Information
 
-* **Имена / Full Name:** д-р Адем Ибушев Зейнев (Dr. Adem ZEINEV)
-* **Doctoral Institution:** University of Chemical Technology and Metallurgy, Sofia (UCTM)
-**Research Field:** Mathematical Modeling and Applications of Mathematics
-* **Работодател / Institution:** СУ „Св. Паисий Хилендарски“, ул. „Христо Ботев“ №1, с. Абланица (2932), общ. Хаджидимово, обл. Благоевград / *St. Paisii Hilendarski Secondary School, Ablanitsa*.
-* **Заемана длъжност / Position:** Старши учител по Математика, Информатика и Информационни технологии / *Senior Teacher in Mathematics & ICT*.
-* **Специални роли / Institutional Roles:** Ръководител направление „Информационни и комуникационни технологии“ (ИКТ) / *Head of ICT Department*.
-* **Педагогически стаж / Teaching Experience:** Непрекъснат стаж от 2000 г. до днес (над 25 години) / *Continuous tenure since 2000*.
-* **Контакти и Академични Портали / Academic Profiles:**
-  * 🆔 **ORCID iD:** [0000-0002-0607-2262](https://orcid.org/0000-0002-0607-2262)
-  * 🌐 **Личен уебсайт / Personal Site:** [www.daskalo.com/adem1970](https://www.daskalo.com/adem1970)
-  * 🎓 **Google Scholar Profile:** [Google Scholar – adem zeinev](https://scholar.google.com/scholar?hl=bg&as_sdt=0%2C5&q=adem+zeinev&btnG=)
-  * 🏫 **Електронно портфолио / E-Portfolio:** [portfolio.e-learning-suablanica.com](https://portfolio.e-learning-suablanica.com)
-  * 💻 **GitHub Profile:** [github.com/azeynev](https://github.com/azeynev)
+- **Имена:** д-р Адем Ибушев Зейнев (Dr. Adem ZEINEV)
+- **Doctoral Institution:** University of Chemical Technology and Metallurgy, Sofia (UCTM)
+- **Research Field:** Mathematical Modeling and Applications of Mathematics
+- **Работодател:** СУ „Св. Паисий Хилендарски“, с. Абланица, общ. Хаджидимово
+- **Длъжност:** Старши учител по математика, информатика и информационни технологии
+- **Специална роля:** Ръководител направление „Информационни и комуникационни технологии“ (ИКТ)
+- **Педагогически стаж:** От 2000 г. до момента
+
+### Академични и професионални профили
+
+- 🆔 **ORCID:** [0000-0002-0607-2262](https://orcid.org/0000-0002-0607-2262)
+- 🌐 **Личен уебсайт:** [azeynev.github.io](https://azeynev.github.io/)
+- 🎓 **Google Scholar:** [Профил и публикации](https://scholar.google.com/scholar?hl=bg\&as_sdt=0%2C5\&q=adem+zeinev)
+- 🏫 **Електронно портфолио:&#x20;**[azeynev.github.io](https://azeynev.github.io/)
+- 💻 **GitHub:** [github.com/azeynev](https://github.com/azeynev)
 
 ---
 

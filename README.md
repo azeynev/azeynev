@@ -242,12 +242,13 @@
 
 ---
 
-## 📫 13. Официални Контакти / Official Contacts
+## 📫 13. Официални контакти и академични профили / Official Contacts
 
-* 🆔 **ORCID iD:** [0000-0002-0607-2262](https://orcid.org/0000-0002-0607-2262)
-* 🏛️ **Research Affiliation:** Department of Mathematics, University of Chemical Technology and Metallurgy, Sofia (UCTM)
-* 🌐 **Personal Website:** (https://azeynev.github.io/)](https://azeynev.github.io/))
-* 🎓 **Google Scholar:** [adem zeinev Search Results](https://scholar.google.com/scholar?hl=bg&as_sdt=0%2C5&q=adem+zeinev&btnG=)
-* 🏫 **E-Portfolio:** [portfolio.e-learning-suablanica.com](https://portfolio.e-learning-suablanica.com)
-* 📍 **Address:** St. Paisii Hilendarski Secondary School, 1 Hristo Botev Str., Ablanitsa (2932), Hadzhidimovo Municipality, Bulgaria
-* 💻 **GitHub Profile:** [github.com/azeynev](https://github.com/azeynev)
+- 🆔 **ORCID iD:** [0000-0002-0607-2262](https://orcid.org/0000-0002-0607-2262)
+- 🎓 **Google Scholar:** [Adem Zeinev](https://scholar.google.com/scholar?hl=bg&as_sdt=0%2C5&q=adem+zeinev)
+- 🌐 **Personal Website:** [Adem Zeynev – Professional Website](https://azeynev.github.io/)
+- 🏫 **E-Portfolio:** [Electronic Portfolio](https://portfolio.e-learning-suablanica.com)
+- 💻 **GitHub:** [github.com/azeynev](https://github.com/azeynev)
+- 🏛️ **Професионална институция:** СУ „Св. Паисий Хилендарски“, с. Абланица, общ. Хаджидимово
+
+---

@@ -38,7 +38,7 @@
 
 - 🆔 **ORCID:** [0000-0002-0607-2262](https://orcid.org/0000-0002-0607-2262)
 - 🌐 **Личен уебсайт:** [azeynev.github.io](https://azeynev.github.io/)
-- 🎓 **Google Scholar:** [Профил и публикации](https://scholar.google.com/scholar?hl=bg\&as_sdt=0%2C5\&q=adem+zeinev)
+- 🎓 **Google Scholar:** [Профил и публикации](https://scholar.google.com/citations?user=dJZP6-IAAAAJ&hl=bg)
 - 🏫 **Електронно портфолио:&#x20;**[azeynev.github.io](https://azeynev.github.io/)
 - 💻 **GitHub:** [github.com/azeynev](https://github.com/azeynev)
 
@@ -60,7 +60,7 @@
 
 ---
 
-## 🏛️ 3. Компетентностен профил съгласно професионалните стандарти – Наредба № 15 (Наредба № 15 / Ordinance 15)
+## 🏛️ 3. Компетентностен профил съгласно професионалните стандарти – (Наредба № 15 / Ordinance 15)
 
 | Компетентност / Competency | Приложение в Учебния Процес & Доказателства / Evidence |
 | :--- | :--- |

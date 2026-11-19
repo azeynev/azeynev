@@ -224,7 +224,7 @@
 ## 🔗 12. Интерактивни Връзки / Quick Access
 
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--0607--2262-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-0607-2262)
-[![Google Scholar] (https://scholar.google.com/citations?user=dJZP6-IAAAAJ&hl=bg)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=dJZP6-IAAAAJ&hl=bg)
 [![Sofia](https://img.shields.io/badge/UCTM_Sofia-Department_of_Mathematics-003366?style=for-the-badge&logo=academic-pages&logoColor=white)](https://uctm.edu)
 [![Училищен Барометър](https://img.shields.io/badge/Училищен_Барометър-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://azeynev.netlify.app)
 [![Personal Website](https://img.shields.io/badge/Personal_Website-059669?style=for-the-badge&logo=googlechrome&logoColor=white)](https://azeynev.github.io/)
@@ -234,7 +234,7 @@
 ## 📫 13. Официални контакти и академични профили / Official Contacts
 
 - 🆔 **ORCID iD:** [0000-0002-0607-2262](https://orcid.org/0000-0002-0607-2262)
-- 🎓 **Google Scholar:** [Adem Zeinev] (https://scholar.google.com/citations?user=dJZP6-IAAAAJ&hl=bg)
+- 🎓 **Google Scholar:** [Adem Zeinev](https://scholar.google.com/citations?user=dJZP6-IAAAAJ&hl=bg)
 - 🌐 **Personal Website:** [Adem Zeynev – Professional Website](https://azeynev.github.io/)
 - 🏫 **E-Portfolio:** [Електронно портфолио](https://azeynev.github.io/)
 - 💻 **GitHub:** [github.com/azeynev](https://github.com/azeynev)

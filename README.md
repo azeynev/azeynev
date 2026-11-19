@@ -131,11 +131,11 @@
 
 | Платформа / Tool | Предназначение / Description | Връзка |
 | :--- | :--- | :---: |
-| 🧠 **Smart Classroom** | Интерактивна образователна среда | [Личен сайт](https://azeynev.github.io/) |
 | 🧩 **Code Studio** | Програмиране и алгоритмично мислене | [Code.org](https://studio.code.org/) |
 | 📐 **GeoGebra** | Интерактивна математическа визуализация | [GeoGebra](https://www.geogebra.org/) |
 | 📊 **Desmos** | Графики и математическо моделиране | [Desmos](https://www.desmos.com/) |
 | 📝 **Дигитални учебни ресурси** | Интерактивни упражнения и учебни материали | [Електронно портфолио](https://portfolio.e-learning-suablanica.com) |
+| 💻 **Авторски разработки** | Образователни приложения и симулатори | [GitHub](https://github.com/azeynev) |
 
 ---
 

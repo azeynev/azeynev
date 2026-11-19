@@ -14,12 +14,13 @@
 | :---: | :---: | :---: | :---: | :---: |
 | **25+ Години** *(от 2000 г.)* | **PhD in Mathematics** | **UCTM Sofia · Dept. of Mathematics** | **11 Публикации · 7 Доклада** | **100% Облачна Интеграция** |
 
----
+---F
 
 ## 🏛️ 1. Обща Информация и Педагогически Статус / General Information
 
 * **Имена / Full Name:** д-р Адем Ибушев Зейнев (Dr. Adem ZEINEV)
-* **Академична принадлежност / Research Affiliation:** Department of Mathematics, University of Chemical Technology and Metallurgy, Sofia (UCTM).
+* **Doctoral Institution:** University of Chemical Technology and Metallurgy, Sofia (UCTM)
+**Research Field:** Mathematical Modeling and Applications of Mathematics
 * **Работодател / Institution:** СУ „Св. Паисий Хилендарски“, ул. „Христо Ботев“ №1, с. Абланица (2932), общ. Хаджидимово, обл. Благоевград / *St. Paisii Hilendarski Secondary School, Ablanitsa*.
 * **Заемана длъжност / Position:** Старши учител по Математика, Информатика и Информационни технологии / *Senior Teacher in Mathematics & ICT*.
 * **Специални роли / Institutional Roles:** Ръководител направление „Информационни и комуникационни технологии“ (ИКТ) / *Head of ICT Department*.
